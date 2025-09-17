@@ -103,7 +103,7 @@ class Llama_Test:
 
 
         # Setting up the emotion dictionary
-        fileEmotion = r"C:\Users\natha\Programming\LLM_Research\LLM_Semantics\Code\emotion_itensity.txt"
+        fileEmotion = r"C:\Users\natha\Programming\LLM_Research\LLM_Semantics\Code\emotion_itensity.txt" #change file path
         table = pd.read_csv(fileEmotion,  names=["word", "emotion", "itensity"], sep='\t')
         self.emotion_dic = dict()
         self.lmtzr = WordNetLemmatizer()
@@ -248,7 +248,7 @@ class Llama_Test:
         emotions["Surprise"] += self.getEmotionItensity(word, "surprise")
         emotions["Trust"] += self.getEmotionItensity(word, "trust")
 
-    #get the emotion vector of a given text
+    #get the emotion vector of a given text TODO: This one we would need to change
     def getEmotionVector(self, text, removeObj = False, useSynset = True):
         #create the initial emotions
         emotions = {"Anger": 0.0,
@@ -379,7 +379,7 @@ class Llama_Test:
                         of.write(f"Distance between emotion vectors: {distance}\n\n")
 
     def get_book_page(self, book_title, headers, base_url):
-        search_url = f"{base_url}/search?utf8=%E2%9C%93&q={quote(book_title)}"
+        search_url = f"{base_url}/search?utf8=%E2%9C%93&q={quote_plus(book_title)}"
         response = requests.get(search_url, headers=headers)
         if response.status_code != 200:
             raise Exception("Failed to fetch search page")
@@ -432,7 +432,7 @@ class Llama_Test:
             return 0.0
         return dot_product / (magnitude1 * magnitude2)
 
-    def find_top_similar_books(self, input_vector, target_age, file_path=r"C:\Users\natha\Programming\LLM_Research\LLM_Semantics\Data\Teenager_GoodReads_Emotion.csv"):
+    def find_top_similar_books(self, input_vector, target_age, file_path=r"C:\Users\annie\.vscode\LLM_Semantics\Data\Teenager_GoodReads_Emotion.csv"):
         """
         Find the top 20 books with emotion vectors most similar to the input vector,
         for entries where the age is within 1 year of the target age.
