@@ -1,0 +1,901 @@
+model,shots,book,answer,ground_truth_stem,answer_clean
+llama3.2:1b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+llama3.2:1b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+llama3.2:1b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False,True,False
+llama3.2:1b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+llama3.2:1b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+llama3.2:1b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+llama3.2:1b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",False.,True,False
+mistral:7b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+mistral:7b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,0,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,1,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,5,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+gemma3:12b,10,"Code Breaker, Spy Hunter: How Elizebeth Friedman Changed the Course of Two World Wars",True,True,True
+llama3.2:1b,0,0-02-823102-3,False.,False,False
+llama3.2:1b,0,0-02-823102-3,False.,False,False
+llama3.2:1b,0,0-02-823102-3,False.,False,False
+llama3.2:1b,0,0-02-823102-3,False.,False,False
+llama3.2:1b,0,0-02-823102-3,False.,False,False
+llama3.2:1b,1,0-02-823102-3,False.,False,False
+llama3.2:1b,1,0-02-823102-3,False.,False,False
+llama3.2:1b,1,0-02-823102-3,False.,False,False
+llama3.2:1b,1,0-02-823102-3,True,False,True
+llama3.2:1b,1,0-02-823102-3,False.,False,False
+llama3.2:1b,5,0-02-823102-3,False.,False,False
+llama3.2:1b,5,0-02-823102-3,False.,False,False
+llama3.2:1b,5,0-02-823102-3,True.,False,True
+llama3.2:1b,5,0-02-823102-3,False.,False,False
+llama3.2:1b,5,0-02-823102-3,False.,False,False
+llama3.2:1b,10,0-02-823102-3,False.,False,False
+llama3.2:1b,10,0-02-823102-3,False.,False,False
+llama3.2:1b,10,0-02-823102-3,False.,False,False
+llama3.2:1b,10,0-02-823102-3,False.,False,False
+llama3.2:1b,10,0-02-823102-3,False.,False,False
+mistral:7b,0,0-02-823102-3,"False. The book does not appear to be in the field of Science, Technology, Engineering, or Mathematics (STEM). It's about economics, which falls under social sciences.",False,False
+mistral:7b,0,0-02-823102-3,"False, the book ""0-02-823102-3"" is not a STEM book. It falls under Social Sciences rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,0,0-02-823102-3,False,False,False
+mistral:7b,0,0-02-823102-3,False,False,False
+mistral:7b,0,0-02-823102-3,False,False,False
+mistral:7b,1,0-02-823102-3,True,False,True
+mistral:7b,1,0-02-823102-3,True,False,True
+mistral:7b,1,0-02-823102-3,True,False,True
+mistral:7b,1,0-02-823102-3,True,False,True
+mistral:7b,1,0-02-823102-3,True,False,True
+mistral:7b,5,0-02-823102-3,True,False,True
+mistral:7b,5,0-02-823102-3,True,False,True
+mistral:7b,5,0-02-823102-3,True,False,True
+mistral:7b,5,0-02-823102-3,True,False,True
+mistral:7b,5,0-02-823102-3,True,False,True
+mistral:7b,10,0-02-823102-3,"False. The book ""Applies traditional economic theory to contemporary problems such as unemployment, inflation, and conflicting economic systems"" falls under Social Science, not STEM (Science, Technology, Engineering, Mathematics).",False,False
+mistral:7b,10,0-02-823102-3,False,False,False
+mistral:7b,10,0-02-823102-3,"False, the book is not STEM (Science, Technology, Engineering, Mathematics). It is an economics book.",False,False
+mistral:7b,10,0-02-823102-3,False,False,False
+mistral:7b,10,0-02-823102-3,"False. This book appears to focus on economics, which falls under social sciences rather than STEM (Science, Technology, Engineering, Mathematics) disciplines.",False,False
+gemma3:12b,0,0-02-823102-3,True,False,True
+gemma3:12b,0,0-02-823102-3,True,False,True
+gemma3:12b,0,0-02-823102-3,True,False,True
+gemma3:12b,0,0-02-823102-3,True,False,True
+gemma3:12b,0,0-02-823102-3,True,False,True
+gemma3:12b,1,0-02-823102-3,True,False,True
+gemma3:12b,1,0-02-823102-3,True,False,True
+gemma3:12b,1,0-02-823102-3,True,False,True
+gemma3:12b,1,0-02-823102-3,True,False,True
+gemma3:12b,1,0-02-823102-3,True,False,True
+gemma3:12b,5,0-02-823102-3,True,False,True
+gemma3:12b,5,0-02-823102-3,True,False,True
+gemma3:12b,5,0-02-823102-3,True,False,True
+gemma3:12b,5,0-02-823102-3,True,False,True
+gemma3:12b,5,0-02-823102-3,True,False,True
+gemma3:12b,10,0-02-823102-3,True,False,True
+gemma3:12b,10,0-02-823102-3,True,False,True
+gemma3:12b,10,0-02-823102-3,True,False,True
+gemma3:12b,10,0-02-823102-3,True,False,True
+gemma3:12b,10,0-02-823102-3,True,False,True
+llama3.2:1b,0,Something Great,False,True,False
+llama3.2:1b,0,Something Great,False.,True,False
+llama3.2:1b,0,Something Great,False.,True,False
+llama3.2:1b,0,Something Great,False,True,False
+llama3.2:1b,0,Something Great,False.,True,False
+llama3.2:1b,1,Something Great,False,True,False
+llama3.2:1b,1,Something Great,False,True,False
+llama3.2:1b,1,Something Great,True,True,True
+llama3.2:1b,1,Something Great,True,True,True
+llama3.2:1b,1,Something Great,False,True,False
+llama3.2:1b,5,Something Great,False,True,False
+llama3.2:1b,5,Something Great,True,True,True
+llama3.2:1b,5,Something Great,False.,True,False
+llama3.2:1b,5,Something Great,False.,True,False
+llama3.2:1b,5,Something Great,True,True,True
+llama3.2:1b,10,Something Great,False,True,False
+llama3.2:1b,10,Something Great,True,True,True
+llama3.2:1b,10,Something Great,False,True,False
+llama3.2:1b,10,Something Great,False,True,False
+llama3.2:1b,10,Something Great,False,True,False
+mistral:7b,0,Something Great,False,True,False
+mistral:7b,0,Something Great,False,True,False
+mistral:7b,0,Something Great,"False, the book ""Something Great"" is not a STEM book. It focuses on spiritual and personal development topics rather than Science, Technology, Engineering, or Mathematics.",True,False
+mistral:7b,0,Something Great,False,True,False
+mistral:7b,0,Something Great,False,True,False
+mistral:7b,1,Something Great,False,True,False
+mistral:7b,1,Something Great,False,True,False
+mistral:7b,1,Something Great,False,True,False
+mistral:7b,1,Something Great,False,True,False
+mistral:7b,1,Something Great,False,True,False
+mistral:7b,5,Something Great,False,True,False
+mistral:7b,5,Something Great,False,True,False
+mistral:7b,5,Something Great,False,True,False
+mistral:7b,5,Something Great,False,True,False
+mistral:7b,5,Something Great,False,True,False
+mistral:7b,10,Something Great,"False. The book ""Something Great"" does not appear to be focused on Science, Technology, Engineering, or Mathematics (STEM) subjects.",True,False
+mistral:7b,10,Something Great,"False. The book ""Something Great"" does not appear to be a STEM (Science, Technology, Engineering, Mathematics) title, as it focuses on spiritual and personal growth rather than scientific, technological, engineering, or mathematical topics.",True,False
+mistral:7b,10,Something Great,"False, ""Something Great"" is not a STEM book. It appears to be a religious self-help book focused on spiritual growth and personal development rather than science, technology, engineering, or mathematics.",True,False
+mistral:7b,10,Something Great,"False. The book ""Something Great"" is not STEM (Science, Technology, Engineering, Mathematics) as it primarily focuses on religion and spirituality.",True,False
+mistral:7b,10,Something Great,False,True,False
+gemma3:12b,0,Something Great,False,True,False
+gemma3:12b,0,Something Great,False,True,False
+gemma3:12b,0,Something Great,False,True,False
+gemma3:12b,0,Something Great,False,True,False
+gemma3:12b,0,Something Great,False,True,False
+gemma3:12b,1,Something Great,False,True,False
+gemma3:12b,1,Something Great,False,True,False
+gemma3:12b,1,Something Great,False,True,False
+gemma3:12b,1,Something Great,False,True,False
+gemma3:12b,1,Something Great,False,True,False
+gemma3:12b,5,Something Great,False,True,False
+gemma3:12b,5,Something Great,False,True,False
+gemma3:12b,5,Something Great,False,True,False
+gemma3:12b,5,Something Great,False,True,False
+gemma3:12b,5,Something Great,False,True,False
+gemma3:12b,10,Something Great,False,True,False
+gemma3:12b,10,Something Great,False,True,False
+gemma3:12b,10,Something Great,False,True,False
+gemma3:12b,10,Something Great,False,True,False
+gemma3:12b,10,Something Great,False,True,False
+llama3.2:1b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False.,True,False
+llama3.2:1b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+llama3.2:1b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+llama3.2:1b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+llama3.2:1b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False.,True,False
+llama3.2:1b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False,True,False
+llama3.2:1b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False.,True,False
+llama3.2:1b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False.,True,False
+llama3.2:1b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+llama3.2:1b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,False.,True,False
+mistral:7b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+mistral:7b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,0,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,1,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,5,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+gemma3:12b,10,How to Hear the Universe: Gaby González and the Search for Einstein's Ripples in Space-Time,True,True,True
+llama3.2:1b,0,0-06-113024-9,False.,False,False
+llama3.2:1b,0,0-06-113024-9,False.,False,False
+llama3.2:1b,0,0-06-113024-9,False,False,False
+llama3.2:1b,0,0-06-113024-9,False.,False,False
+llama3.2:1b,0,0-06-113024-9,False,False,False
+llama3.2:1b,1,0-06-113024-9,False,False,False
+llama3.2:1b,1,0-06-113024-9,False,False,False
+llama3.2:1b,1,0-06-113024-9,True,False,True
+llama3.2:1b,1,0-06-113024-9,False,False,False
+llama3.2:1b,1,0-06-113024-9,False,False,False
+llama3.2:1b,5,0-06-113024-9,True,False,True
+llama3.2:1b,5,0-06-113024-9,False,False,False
+llama3.2:1b,5,0-06-113024-9,False,False,False
+llama3.2:1b,5,0-06-113024-9,True,False,True
+llama3.2:1b,5,0-06-113024-9,True.,False,True
+llama3.2:1b,10,0-06-113024-9,False.,False,False
+llama3.2:1b,10,0-06-113024-9,False,False,False
+llama3.2:1b,10,0-06-113024-9,False.,False,False
+llama3.2:1b,10,0-06-113024-9,False.,False,False
+llama3.2:1b,10,0-06-113024-9,False.,False,False
+mistral:7b,0,0-06-113024-9,False,False,False
+mistral:7b,0,0-06-113024-9,"False, this book ""0-06-113024-9"" is not a STEM book. It is a work of literature focused on social issues and personal experiences, not science, technology, engineering, or mathematics.",False,False
+mistral:7b,0,0-06-113024-9,"False. The book ""0-06-113024-9"", titled ""Black Boy"" by Richard Wright, is not a STEM (Science, Technology, Engineering, Mathematics) book. It falls under the genre of Literature and Social Sciences.",False,False
+mistral:7b,0,0-06-113024-9,"False. The book ""0-06-113024-9: Black Boy"" by Richard Wright is not a STEM book. It belongs to the Literature category, specifically Autobiography/Memoir.",False,False
+mistral:7b,0,0-06-113024-9,False,False,False
+mistral:7b,1,0-06-113024-9,False,False,False
+mistral:7b,1,0-06-113024-9,False,False,False
+mistral:7b,1,0-06-113024-9,False,False,False
+mistral:7b,1,0-06-113024-9,False,False,False
+mistral:7b,1,0-06-113024-9,False,False,False
+mistral:7b,5,0-06-113024-9,False,False,False
+mistral:7b,5,0-06-113024-9,False,False,False
+mistral:7b,5,0-06-113024-9,False,False,False
+mistral:7b,5,0-06-113024-9,False,False,False
+mistral:7b,5,0-06-113024-9,False,False,False
+mistral:7b,10,0-06-113024-9,False,False,False
+mistral:7b,10,0-06-113024-9,"False. This book is not STEM (Science, Technology, Engineering, Mathematics). It focuses on social and political themes rather than scientific or technical subjects.",False,False
+mistral:7b,10,0-06-113024-9,False,False,False
+mistral:7b,10,0-06-113024-9,False,False,False
+mistral:7b,10,0-06-113024-9,False,False,False
+gemma3:12b,0,0-06-113024-9,False,False,False
+gemma3:12b,0,0-06-113024-9,False,False,False
+gemma3:12b,0,0-06-113024-9,False,False,False
+gemma3:12b,0,0-06-113024-9,False,False,False
+gemma3:12b,0,0-06-113024-9,False,False,False
+gemma3:12b,1,0-06-113024-9,False,False,False
+gemma3:12b,1,0-06-113024-9,False,False,False
+gemma3:12b,1,0-06-113024-9,False,False,False
+gemma3:12b,1,0-06-113024-9,False,False,False
+gemma3:12b,1,0-06-113024-9,False,False,False
+gemma3:12b,5,0-06-113024-9,False,False,False
+gemma3:12b,5,0-06-113024-9,False,False,False
+gemma3:12b,5,0-06-113024-9,False,False,False
+gemma3:12b,5,0-06-113024-9,False,False,False
+gemma3:12b,5,0-06-113024-9,False,False,False
+gemma3:12b,10,0-06-113024-9,False,False,False
+gemma3:12b,10,0-06-113024-9,False,False,False
+gemma3:12b,10,0-06-113024-9,False,False,False
+gemma3:12b,10,0-06-113024-9,False,False,False
+gemma3:12b,10,0-06-113024-9,False,False,False
+llama3.2:1b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False.,True,False
+llama3.2:1b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False.,True,False
+llama3.2:1b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+llama3.2:1b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,False,True,False
+mistral:7b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+mistral:7b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,0,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,1,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,5,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+gemma3:12b,10,The Brilliant Calculator: How Mathematician Edith Clarke Helped Electrify America,True,True,True
+llama3.2:1b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,0,"Sandry's Book (Circle of Magic, #1)",False.,False,False
+llama3.2:1b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,5,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,5,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,5,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,5,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,5,"Sandry's Book (Circle of Magic, #1)",True,False,True
+llama3.2:1b,10,"Sandry's Book (Circle of Magic, #1)",False.,False,False
+llama3.2:1b,10,"Sandry's Book (Circle of Magic, #1)",False.,False,False
+llama3.2:1b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,10,"Sandry's Book (Circle of Magic, #1)",False.,False,False
+llama3.2:1b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+mistral:7b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+mistral:7b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+mistral:7b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+mistral:7b,1,"Sandry's Book (Circle of Magic, #1)",True,False,True
+mistral:7b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,10,"Sandry's Book (Circle of Magic, #1)","False. The book ""Sandry's Book (Circle of Magic, #1)"" is not classified as a STEM book, as it primarily focuses on magic and fantasy elements rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+mistral:7b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,0,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,1,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,1,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,1,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,1,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,1,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,5,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+gemma3:12b,10,"Sandry's Book (Circle of Magic, #1)",False,False,False
+llama3.2:1b,0,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,0,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,0,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,0,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,0,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,1,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,1,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,5,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,10,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,10,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,10,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,10,Bicycle: Eureka! The Biography of an Idea,False,True,False
+llama3.2:1b,10,Bicycle: Eureka! The Biography of an Idea,False.,True,False
+mistral:7b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+mistral:7b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,0,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,1,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,5,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+gemma3:12b,10,Bicycle: Eureka! The Biography of an Idea,True,True,True
+llama3.2:1b,0,"The Predator (Animorphs, #5)",False.,False,False
+llama3.2:1b,0,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,0,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,0,"The Predator (Animorphs, #5)",False.,False,False
+llama3.2:1b,0,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,1,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,1,"The Predator (Animorphs, #5)",True,False,True
+llama3.2:1b,1,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,1,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,1,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,5,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,5,"The Predator (Animorphs, #5)",True,False,True
+llama3.2:1b,5,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,5,"The Predator (Animorphs, #5)",True,False,True
+llama3.2:1b,5,"The Predator (Animorphs, #5)",True,False,True
+llama3.2:1b,10,"The Predator (Animorphs, #5)",False.,False,False
+llama3.2:1b,10,"The Predator (Animorphs, #5)",False.,False,False
+llama3.2:1b,10,"The Predator (Animorphs, #5)",False.,False,False
+llama3.2:1b,10,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,10,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,0,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,0,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,0,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,0,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,0,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,1,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,1,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,1,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,1,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,1,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,5,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,5,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,5,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,5,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,5,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,10,"The Predator (Animorphs, #5)","False. The book ""The Predator (Animorphs, #5)"" does not appear to be a STEM book, as it primarily focuses on science fiction, fantasy, and adventure genres, rather than Science, Technology, Engineering, or Mathematics subjects.",False,False
+mistral:7b,10,"The Predator (Animorphs, #5)","False. The Predator (Animorphs, #5) is not a STEM book as it primarily focuses on science fiction and adventure genres rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,10,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,10,"The Predator (Animorphs, #5)",False,False,False
+mistral:7b,10,"The Predator (Animorphs, #5)","False. The book ""The Predator (Animorphs, #5)"" is not classified as a STEM (Science, Technology, Engineering, Mathematics) title. It belongs to the genre of Science Fiction and is a part of a young adult fiction series.",False,False
+gemma3:12b,0,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,0,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,0,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,0,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,0,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,1,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,1,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,1,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,1,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,1,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,5,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,5,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,5,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,5,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,5,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,10,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,10,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,10,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,10,"The Predator (Animorphs, #5)",False,False,False
+gemma3:12b,10,"The Predator (Animorphs, #5)",False,False,False
+llama3.2:1b,0,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,0,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,0,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,0,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,0,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,1,Uma Wimple Charts Her House,False,True,False
+llama3.2:1b,1,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,1,Uma Wimple Charts Her House,True.,True,True
+llama3.2:1b,1,Uma Wimple Charts Her House,True.,True,True
+llama3.2:1b,1,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,5,Uma Wimple Charts Her House,True.,True,True
+llama3.2:1b,5,Uma Wimple Charts Her House,True.,True,True
+llama3.2:1b,5,Uma Wimple Charts Her House,False,True,False
+llama3.2:1b,5,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,5,Uma Wimple Charts Her House,True.,True,True
+llama3.2:1b,10,Uma Wimple Charts Her House,False,True,False
+llama3.2:1b,10,Uma Wimple Charts Her House,"False. This book does not fit into the STEM category as it primarily deals with themes of family, love, and self-discovery, which are more related to social sciences or humanities.",True,False
+llama3.2:1b,10,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,10,Uma Wimple Charts Her House,False.,True,False
+llama3.2:1b,10,Uma Wimple Charts Her House,False.,True,False
+mistral:7b,0,Uma Wimple Charts Her House,False,True,False
+mistral:7b,0,Uma Wimple Charts Her House,False,True,False
+mistral:7b,0,Uma Wimple Charts Her House,False,True,False
+mistral:7b,0,Uma Wimple Charts Her House,False,True,False
+mistral:7b,0,Uma Wimple Charts Her House,False,True,False
+mistral:7b,1,Uma Wimple Charts Her House,False,True,False
+mistral:7b,1,Uma Wimple Charts Her House,False,True,False
+mistral:7b,1,Uma Wimple Charts Her House,False,True,False
+mistral:7b,1,Uma Wimple Charts Her House,False,True,False
+mistral:7b,1,Uma Wimple Charts Her House,False,True,False
+mistral:7b,5,Uma Wimple Charts Her House,False,True,False
+mistral:7b,5,Uma Wimple Charts Her House,False,True,False
+mistral:7b,5,Uma Wimple Charts Her House,False,True,False
+mistral:7b,5,Uma Wimple Charts Her House,False,True,False
+mistral:7b,5,Uma Wimple Charts Her House,False,True,False
+mistral:7b,10,Uma Wimple Charts Her House,False,True,False
+mistral:7b,10,Uma Wimple Charts Her House,False,True,False
+mistral:7b,10,Uma Wimple Charts Her House,False,True,False
+mistral:7b,10,Uma Wimple Charts Her House,False,True,False
+mistral:7b,10,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,0,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,0,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,0,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,0,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,0,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,1,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,1,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,1,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,1,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,1,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,5,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,5,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,5,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,5,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,5,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,10,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,10,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,10,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,10,Uma Wimple Charts Her House,False,True,False
+gemma3:12b,10,Uma Wimple Charts Her House,False,True,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False.,False,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,1,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,5,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,5,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",False.,False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",True,False,True
+llama3.2:1b,10,"The Message (Animorphs, #4)",False.,False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False.,False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,0,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,0,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,0,"The Message (Animorphs, #4)","False, ""The Message (Animorphs, #4)"" is not a STEM book. It belongs to the Science Fiction genre.",False,False
+mistral:7b,0,"The Message (Animorphs, #4)","False. The given book, ""The Message (Animorphs, #4)"", is not classified as a STEM book. It primarily focuses on science fiction and adventure genres rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,0,"The Message (Animorphs, #4)","False. The book ""The Message (Animorphs, #4)"" does not seem to focus primarily on Science, Technology, Engineering, or Mathematics. Instead, it appears to be a work of fiction in the science fiction genre, focusing on themes such as friendship, alien life, and survival.",False,False
+mistral:7b,1,"The Message (Animorphs, #4)","True (The book ""The Message (Animorphs, #4)"" falls under the category of Science Fiction, which is a part of STEM as it often involves scientific concepts and technology.)",False,True
+mistral:7b,1,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,1,"The Message (Animorphs, #4)",True,False,True
+mistral:7b,1,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,10,"The Message (Animorphs, #4)","False. ""The Message (Animorphs, #4)"" is not a STEM book. It falls under the genre of science fiction, specifically young adult fiction.",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",True,False,True
+gemma3:12b,1,"The Message (Animorphs, #4)",True,False,True
+gemma3:12b,1,"The Message (Animorphs, #4)",True,False,True
+gemma3:12b,1,"The Message (Animorphs, #4)",True,False,True
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False,False
+llama3.2:1b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False.,True,False
+llama3.2:1b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True.,True,True
+llama3.2:1b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True.,True,True
+llama3.2:1b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+llama3.2:1b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,False,True,False
+mistral:7b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+mistral:7b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,0,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,1,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,5,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+gemma3:12b,10,Blast Off!: How Mary Sherman Morgan Fueled America Into Space,True,True,True
+llama3.2:1b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False.,True,False
+llama3.2:1b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False.,True,False
+llama3.2:1b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+llama3.2:1b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",False,True,False
+mistral:7b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+mistral:7b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,0,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,1,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,5,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+gemma3:12b,10,"Wood, Wire, Wings: Emma Lilian Todd Invents an Airplane",True,True,True
+llama3.2:1b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+llama3.2:1b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False.,True,False
+llama3.2:1b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,False,True,False
+mistral:7b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+mistral:7b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,0,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,1,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,5,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+gemma3:12b,10,Jerry Changed the Game!: How Engineer Jerry Lawson Revolutionized Video Games Forever,True,True,True
+llama3.2:1b,0,978-0-15-505090-7,False.,False,False
+llama3.2:1b,0,978-0-15-505090-7,False.,False,False
+llama3.2:1b,0,978-0-15-505090-7,False.,False,False
+llama3.2:1b,0,978-0-15-505090-7,False.,False,False
+llama3.2:1b,0,978-0-15-505090-7,False.,False,False
+llama3.2:1b,1,978-0-15-505090-7,False,False,False
+llama3.2:1b,1,978-0-15-505090-7,False,False,False
+llama3.2:1b,1,978-0-15-505090-7,False,False,False
+llama3.2:1b,1,978-0-15-505090-7,False,False,False
+llama3.2:1b,1,978-0-15-505090-7,False,False,False
+llama3.2:1b,5,978-0-15-505090-7,True.,False,True
+llama3.2:1b,5,978-0-15-505090-7,False.,False,False
+llama3.2:1b,5,978-0-15-505090-7,False.,False,False
+llama3.2:1b,5,978-0-15-505090-7,False.,False,False
+llama3.2:1b,5,978-0-15-505090-7,False,False,False
+llama3.2:1b,10,978-0-15-505090-7,False,False,False
+llama3.2:1b,10,978-0-15-505090-7,False.,False,False
+llama3.2:1b,10,978-0-15-505090-7,False.,False,False
+llama3.2:1b,10,978-0-15-505090-7,False,False,False
+llama3.2:1b,10,978-0-15-505090-7,False.,False,False
+mistral:7b,0,978-0-15-505090-7,False (it's not strictly a STEM book),False,False
+mistral:7b,0,978-0-15-505090-7,False,False,False
+mistral:7b,0,978-0-15-505090-7,True,False,True
+mistral:7b,0,978-0-15-505090-7,"True (Science, Technology, Engineering, Mathematics)",False,True
+mistral:7b,0,978-0-15-505090-7,False,False,False
+mistral:7b,1,978-0-15-505090-7,True,False,True
+mistral:7b,1,978-0-15-505090-7,True,False,True
+mistral:7b,1,978-0-15-505090-7,True,False,True
+mistral:7b,1,978-0-15-505090-7,True,False,True
+mistral:7b,1,978-0-15-505090-7,True,False,True
+mistral:7b,5,978-0-15-505090-7,"False (The provided summary does not provide enough information about the content of the book to definitively determine if it falls under STEM category. However, considering the mention of digital images, quizzes, and maps, it seems less likely that this book is a STEM book.)",False,False
+mistral:7b,5,978-0-15-505090-7,False (The book summary doesn't provide enough information about the content of the book to definitively determine if it's STEM),False,False
+mistral:7b,5,978-0-15-505090-7,False,False,False
+mistral:7b,5,978-0-15-505090-7,"False (The provided book summary does not provide sufficient information to definitively determine if it is a STEM book. However, given that it includes hundreds of digital images, maps, and quizzes, it might be related to social studies or humanities rather than pure STEM subjects.)",False,False
+mistral:7b,5,978-0-15-505090-7,False,False,False
+mistral:7b,10,978-0-15-505090-7,False,False,False
+mistral:7b,10,978-0-15-505090-7,False,False,False
+mistral:7b,10,978-0-15-505090-7,"False (The book seems to be focused on digital images, maps, and quizzes, which are not typically associated with STEM subjects.)",False,False
+mistral:7b,10,978-0-15-505090-7,"True (Science, Technology, Engineering, or Mathematics)",False,True
+mistral:7b,10,978-0-15-505090-7,False,False,False
+gemma3:12b,0,978-0-15-505090-7,False,False,False
+gemma3:12b,0,978-0-15-505090-7,False,False,False
+gemma3:12b,0,978-0-15-505090-7,False,False,False
+gemma3:12b,0,978-0-15-505090-7,False,False,False
+gemma3:12b,0,978-0-15-505090-7,False,False,False
+gemma3:12b,1,978-0-15-505090-7,True,False,True
+gemma3:12b,1,978-0-15-505090-7,True,False,True
+gemma3:12b,1,978-0-15-505090-7,True,False,True
+gemma3:12b,1,978-0-15-505090-7,True,False,True
+gemma3:12b,1,978-0-15-505090-7,True,False,True
+gemma3:12b,5,978-0-15-505090-7,False,False,False
+gemma3:12b,5,978-0-15-505090-7,False,False,False
+gemma3:12b,5,978-0-15-505090-7,False,False,False
+gemma3:12b,5,978-0-15-505090-7,False,False,False
+gemma3:12b,5,978-0-15-505090-7,False,False,False
+gemma3:12b,10,978-0-15-505090-7,False,False,False
+gemma3:12b,10,978-0-15-505090-7,False,False,False
+gemma3:12b,10,978-0-15-505090-7,False,False,False
+gemma3:12b,10,978-0-15-505090-7,False,False,False
+gemma3:12b,10,978-0-15-505090-7,False,False,False

@@ -1,0 +1,1228 @@
+model,shots,book,answer,ground_truth_stem
+llama3.2:1b,0,0394744128,False.,False
+llama3.2:1b,0,0394744128,False.,False
+llama3.2:1b,0,0394744128,False.,False
+llama3.2:1b,0,0394744128,False.,False
+llama3.2:1b,0,0394744128,False.,False
+llama3.2:1b,1,0394744128,True.,False
+llama3.2:1b,1,0394744128,False.,False
+llama3.2:1b,1,0394744128,True.,False
+llama3.2:1b,1,0394744128,False,False
+llama3.2:1b,1,0394744128,False.,False
+llama3.2:1b,5,0394744128,True.,False
+llama3.2:1b,5,0394744128,True.,False
+llama3.2:1b,5,0394744128,True.,False
+llama3.2:1b,5,0394744128,True.,False
+llama3.2:1b,5,0394744128,True.,False
+llama3.2:1b,10,0394744128,True.,False
+llama3.2:1b,10,0394744128,False.,False
+llama3.2:1b,10,0394744128,False.,False
+llama3.2:1b,10,0394744128,False.,False
+llama3.2:1b,10,0394744128,True.,False
+mistral:7b,0,0394744128,False,False
+mistral:7b,0,0394744128,"False. This book is not related to Science, Technology, Engineering, or Mathematics (STEM). It is about acting and theater, not a STEM subject.",False
+mistral:7b,0,0394744128,False,False
+mistral:7b,0,0394744128,False,False
+mistral:7b,0,0394744128,False,False
+mistral:7b,1,0394744128,False,False
+mistral:7b,1,0394744128,False,False
+mistral:7b,1,0394744128,False,False
+mistral:7b,1,0394744128,False,False
+mistral:7b,1,0394744128,False,False
+mistral:7b,5,0394744128,False,False
+mistral:7b,5,0394744128,False,False
+mistral:7b,5,0394744128,False,False
+mistral:7b,5,0394744128,False,False
+mistral:7b,5,0394744128,False,False
+mistral:7b,10,0394744128,False,False
+mistral:7b,10,0394744128,False,False
+mistral:7b,10,0394744128,False,False
+mistral:7b,10,0394744128,False,False
+mistral:7b,10,0394744128,False,False
+gemma3:12b,0,0394744128,False,False
+gemma3:12b,0,0394744128,False,False
+gemma3:12b,0,0394744128,False,False
+gemma3:12b,0,0394744128,false,False
+gemma3:12b,0,0394744128,False,False
+gemma3:12b,1,0394744128,False,False
+gemma3:12b,1,0394744128,False,False
+gemma3:12b,1,0394744128,False,False
+gemma3:12b,1,0394744128,False,False
+gemma3:12b,1,0394744128,False,False
+gemma3:12b,5,0394744128,False,False
+gemma3:12b,5,0394744128,False,False
+gemma3:12b,5,0394744128,False,False
+gemma3:12b,5,0394744128,False,False
+gemma3:12b,5,0394744128,False,False
+gemma3:12b,10,0394744128,False,False
+gemma3:12b,10,0394744128,False,False
+gemma3:12b,10,0394744128,False,False
+gemma3:12b,10,0394744128,False,False
+gemma3:12b,10,0394744128,False,False
+gpt-oss:20b,0,0394744128,false,False
+gpt-oss:20b,0,0394744128,false,False
+gpt-oss:20b,0,0394744128,false,False
+gpt-oss:20b,0,0394744128,false,False
+gpt-oss:20b,0,0394744128,false,False
+gpt-oss:20b,1,0394744128,false,False
+gpt-oss:20b,1,0394744128,false,False
+gpt-oss:20b,1,0394744128,false,False
+gpt-oss:20b,1,0394744128,false,False
+gpt-oss:20b,1,0394744128,false,False
+gpt-oss:20b,5,0394744128,false,False
+gpt-oss:20b,5,0394744128,false,False
+gpt-oss:20b,5,0394744128,false,False
+gpt-oss:20b,5,0394744128,False,False
+gpt-oss:20b,5,0394744128,false,False
+gpt-oss:20b,10,0394744128,False,False
+gpt-oss:20b,10,0394744128,false,False
+gpt-oss:20b,10,0394744128,false,False
+gpt-oss:20b,10,0394744128,False,False
+gpt-oss:20b,10,0394744128,false,False
+llama3.2:1b,0,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,0,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,0,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,0,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,0,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,1,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,1,101 Cool Ways To Make Money,False,False
+llama3.2:1b,1,101 Cool Ways To Make Money,False,False
+llama3.2:1b,1,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,1,101 Cool Ways To Make Money,False,False
+llama3.2:1b,5,101 Cool Ways To Make Money,False,False
+llama3.2:1b,5,101 Cool Ways To Make Money,True.,False
+llama3.2:1b,5,101 Cool Ways To Make Money,False,False
+llama3.2:1b,5,101 Cool Ways To Make Money,False,False
+llama3.2:1b,5,101 Cool Ways To Make Money,False,False
+llama3.2:1b,10,101 Cool Ways To Make Money,True.,False
+llama3.2:1b,10,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,10,101 Cool Ways To Make Money,False.,False
+llama3.2:1b,10,101 Cool Ways To Make Money,False,False
+llama3.2:1b,10,101 Cool Ways To Make Money,False,False
+mistral:7b,0,101 Cool Ways To Make Money,False,False
+mistral:7b,0,101 Cool Ways To Make Money,False,False
+mistral:7b,0,101 Cool Ways To Make Money,False,False
+mistral:7b,0,101 Cool Ways To Make Money,False,False
+mistral:7b,0,101 Cool Ways To Make Money,False,False
+mistral:7b,1,101 Cool Ways To Make Money,False,False
+mistral:7b,1,101 Cool Ways To Make Money,False,False
+mistral:7b,1,101 Cool Ways To Make Money,False,False
+mistral:7b,1,101 Cool Ways To Make Money,False,False
+mistral:7b,1,101 Cool Ways To Make Money,False,False
+mistral:7b,5,101 Cool Ways To Make Money,False,False
+mistral:7b,5,101 Cool Ways To Make Money,False,False
+mistral:7b,5,101 Cool Ways To Make Money,False,False
+mistral:7b,5,101 Cool Ways To Make Money,False,False
+mistral:7b,5,101 Cool Ways To Make Money,False,False
+mistral:7b,10,101 Cool Ways To Make Money,"True (The book is not strictly about Science, Technology, Engineering, or Mathematics but does contain information related to money-making techniques which can be considered a form of applied mathematics and engineering in business or entrepreneurship)",False
+mistral:7b,10,101 Cool Ways To Make Money,"True (This book is not a textbook about Science, Technology, Engineering, or Mathematics but it does contain information related to business and economics which can be considered as part of STEM)",False
+mistral:7b,10,101 Cool Ways To Make Money,"True (This book discusses financial and business concepts, which can be considered a part of economics, a branch of social science that could overlap with STEM in certain contexts.)",False
+mistral:7b,10,101 Cool Ways To Make Money,"True (This book is not about Science, Technology, Engineering, or Mathematics, but it discusses various business-related topics and strategies, which can be considered as an application of Economics, a subject that falls under Social Sciences.)",False
+mistral:7b,10,101 Cool Ways To Make Money,"True (It's about making money, which could be considered a mathematical concept in terms of earning and spending)",False
+gemma3:12b,0,101 Cool Ways To Make Money,False,False
+gemma3:12b,0,101 Cool Ways To Make Money,False,False
+gemma3:12b,0,101 Cool Ways To Make Money,False,False
+gemma3:12b,0,101 Cool Ways To Make Money,False,False
+gemma3:12b,0,101 Cool Ways To Make Money,False,False
+gemma3:12b,1,101 Cool Ways To Make Money,False,False
+gemma3:12b,1,101 Cool Ways To Make Money,False,False
+gemma3:12b,1,101 Cool Ways To Make Money,False,False
+gemma3:12b,1,101 Cool Ways To Make Money,False,False
+gemma3:12b,1,101 Cool Ways To Make Money,False,False
+gemma3:12b,5,101 Cool Ways To Make Money,False,False
+gemma3:12b,5,101 Cool Ways To Make Money,False,False
+gemma3:12b,5,101 Cool Ways To Make Money,False,False
+gemma3:12b,5,101 Cool Ways To Make Money,False,False
+gemma3:12b,5,101 Cool Ways To Make Money,False,False
+gemma3:12b,10,101 Cool Ways To Make Money,False,False
+gemma3:12b,10,101 Cool Ways To Make Money,False,False
+gemma3:12b,10,101 Cool Ways To Make Money,False,False
+gemma3:12b,10,101 Cool Ways To Make Money,False,False
+gemma3:12b,10,101 Cool Ways To Make Money,False,False
+gpt-oss:20b,0,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,0,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,0,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,0,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,0,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,1,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,1,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,1,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,1,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,1,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,5,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,5,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,5,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,5,101 Cool Ways To Make Money,False,False
+gpt-oss:20b,5,101 Cool Ways To Make Money,False,False
+gpt-oss:20b,10,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,10,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,10,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,10,101 Cool Ways To Make Money,false,False
+gpt-oss:20b,10,101 Cool Ways To Make Money,false,False
+llama3.2:1b,0,9780133240825,False,False
+llama3.2:1b,0,9780133240825,False.,False
+llama3.2:1b,0,9780133240825,False,False
+llama3.2:1b,0,9780133240825,False,False
+llama3.2:1b,0,9780133240825,True,False
+llama3.2:1b,1,9780133240825,False,False
+llama3.2:1b,1,9780133240825,True,False
+llama3.2:1b,1,9780133240825,False,False
+llama3.2:1b,1,9780133240825,True,False
+llama3.2:1b,1,9780133240825,True,False
+llama3.2:1b,5,9780133240825,"Is this book ""9780133240825"" STEM? True.",False
+llama3.2:1b,5,9780133240825,The answer is: True,False
+llama3.2:1b,5,9780133240825,No,False
+llama3.2:1b,5,9780133240825,False,False
+llama3.2:1b,5,9780133240825,True,False
+llama3.2:1b,10,9780133240825,"Is ""9780133240825"" STEM? True",False
+llama3.2:1b,10,9780133240825,"Is ""9780133240825"" STEM? True.",False
+llama3.2:1b,10,9780133240825,True.,False
+llama3.2:1b,10,9780133240825,True.,False
+llama3.2:1b,10,9780133240825,Answer: True,False
+mistral:7b,0,9780133240825,False,False
+mistral:7b,0,9780133240825,False,False
+mistral:7b,0,9780133240825,"False, this book is not STEM. It is a Political Science textbook focusing on American Government, which falls under Social Sciences, rather than Science, Technology, Engineering, or Mathematics (STEM).",False
+mistral:7b,0,9780133240825,"False, this book is not a part of the STEM field as it focuses on politics and government studies, not Science, Technology, Engineering, or Mathematics.",False
+mistral:7b,0,9780133240825,False,False
+mistral:7b,1,9780133240825,True,False
+mistral:7b,1,9780133240825,True,False
+mistral:7b,1,9780133240825,True,False
+mistral:7b,1,9780133240825,True,False
+mistral:7b,1,9780133240825,True,False
+mistral:7b,5,9780133240825,True,False
+mistral:7b,5,9780133240825,True,False
+mistral:7b,5,9780133240825,True,False
+mistral:7b,5,9780133240825,True,False
+mistral:7b,5,9780133240825,True,False
+mistral:7b,10,9780133240825,True,False
+mistral:7b,10,9780133240825,True,False
+mistral:7b,10,9780133240825,True,False
+mistral:7b,10,9780133240825,True,False
+mistral:7b,10,9780133240825,True,False
+gemma3:12b,0,9780133240825,false,False
+gemma3:12b,0,9780133240825,False,False
+gemma3:12b,0,9780133240825,False,False
+gemma3:12b,0,9780133240825,False,False
+gemma3:12b,0,9780133240825,False,False
+gemma3:12b,1,9780133240825,False,False
+gemma3:12b,1,9780133240825,False,False
+gemma3:12b,1,9780133240825,False,False
+gemma3:12b,1,9780133240825,False,False
+gemma3:12b,1,9780133240825,False,False
+gemma3:12b,5,9780133240825,False,False
+gemma3:12b,5,9780133240825,False,False
+gemma3:12b,5,9780133240825,False,False
+gemma3:12b,5,9780133240825,False,False
+gemma3:12b,5,9780133240825,False,False
+gemma3:12b,10,9780133240825,False,False
+gemma3:12b,10,9780133240825,False,False
+gemma3:12b,10,9780133240825,False,False
+gemma3:12b,10,9780133240825,False,False
+gemma3:12b,10,9780133240825,False,False
+gpt-oss:20b,0,9780133240825,false,False
+gpt-oss:20b,0,9780133240825,false,False
+gpt-oss:20b,0,9780133240825,false,False
+gpt-oss:20b,0,9780133240825,false,False
+gpt-oss:20b,0,9780133240825,false,False
+gpt-oss:20b,1,9780133240825,false,False
+gpt-oss:20b,1,9780133240825,false,False
+gpt-oss:20b,1,9780133240825,false,False
+gpt-oss:20b,1,9780133240825,false,False
+gpt-oss:20b,1,9780133240825,false,False
+gpt-oss:20b,5,9780133240825,false,False
+gpt-oss:20b,5,9780133240825,false,False
+gpt-oss:20b,5,9780133240825,false,False
+gpt-oss:20b,5,9780133240825,false,False
+gpt-oss:20b,5,9780133240825,false,False
+gpt-oss:20b,10,9780133240825,false,False
+gpt-oss:20b,10,9780133240825,false,False
+gpt-oss:20b,10,9780133240825,false,False
+gpt-oss:20b,10,9780133240825,false,False
+gpt-oss:20b,10,9780133240825,False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True.,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,0026358824,True,False
+llama3.2:1b,0,0026358824,False,False
+llama3.2:1b,0,0026358824,False,False
+llama3.2:1b,0,0026358824,False,False
+llama3.2:1b,0,0026358824,False,False
+llama3.2:1b,1,0026358824,False,False
+llama3.2:1b,1,0026358824,False,False
+llama3.2:1b,1,0026358824,False,False
+llama3.2:1b,1,0026358824,False,False
+llama3.2:1b,1,0026358824,False,False
+llama3.2:1b,5,0026358824,True,False
+llama3.2:1b,5,0026358824,False,False
+llama3.2:1b,5,0026358824,This book is True,False
+llama3.2:1b,5,0026358824,False.,False
+llama3.2:1b,5,0026358824,This book is True.,False
+llama3.2:1b,10,0026358824,True,False
+llama3.2:1b,10,0026358824,False.,False
+llama3.2:1b,10,0026358824,The answer is: True,False
+llama3.2:1b,10,0026358824,False,False
+llama3.2:1b,10,0026358824,False.,False
+mistral:7b,0,0026358824,False,False
+mistral:7b,0,0026358824,False,False
+mistral:7b,0,0026358824,False,False
+mistral:7b,0,0026358824,False,False
+mistral:7b,0,0026358824,False,False
+mistral:7b,1,0026358824,True,False
+mistral:7b,1,0026358824,True,False
+mistral:7b,1,0026358824,False,False
+mistral:7b,1,0026358824,False,False
+mistral:7b,1,0026358824,True,False
+mistral:7b,5,0026358824,False,False
+mistral:7b,5,0026358824,True (grammar and composition are part of the Language Arts subject which can be considered as a subset of STEM under the Arts category),False
+mistral:7b,5,0026358824,"True (the book is about Writing, which falls under Language Arts, a subject in Humanities, but since it has a strong focus on grammar and composition, it can be considered related to Science, Technology, Engineering, and Mathematics (STEM) as well, especially when it comes to communication and presentation skills.)",False
+mistral:7b,5,0026358824,"True (it falls under the ""T"" in STEM for technology, as it's about composition and grammar software which can be considered a form of technology).",False
+mistral:7b,5,0026358824,True (the book focuses on grammar and composition which can be considered as part of Humanities but it also includes elements of Language Arts which is a subset of STEM),False
+mistral:7b,10,0026358824,True,False
+mistral:7b,10,0026358824,True,False
+mistral:7b,10,0026358824,True,False
+mistral:7b,10,0026358824,True,False
+mistral:7b,10,0026358824,True,False
+gemma3:12b,0,0026358824,False,False
+gemma3:12b,0,0026358824,false,False
+gemma3:12b,0,0026358824,False,False
+gemma3:12b,0,0026358824,False,False
+gemma3:12b,0,0026358824,False,False
+gemma3:12b,1,0026358824,False,False
+gemma3:12b,1,0026358824,False,False
+gemma3:12b,1,0026358824,False,False
+gemma3:12b,1,0026358824,False,False
+gemma3:12b,1,0026358824,False,False
+gemma3:12b,5,0026358824,False,False
+gemma3:12b,5,0026358824,False,False
+gemma3:12b,5,0026358824,False,False
+gemma3:12b,5,0026358824,False,False
+gemma3:12b,5,0026358824,False,False
+gemma3:12b,10,0026358824,False,False
+gemma3:12b,10,0026358824,False,False
+gemma3:12b,10,0026358824,False,False
+gemma3:12b,10,0026358824,False,False
+gemma3:12b,10,0026358824,False,False
+gpt-oss:20b,0,0026358824,false,False
+gpt-oss:20b,0,0026358824,false,False
+gpt-oss:20b,0,0026358824,false,False
+gpt-oss:20b,0,0026358824,false,False
+gpt-oss:20b,0,0026358824,false,False
+gpt-oss:20b,1,0026358824,false,False
+gpt-oss:20b,1,0026358824,false,False
+gpt-oss:20b,1,0026358824,false,False
+gpt-oss:20b,1,0026358824,false,False
+gpt-oss:20b,1,0026358824,false,False
+gpt-oss:20b,5,0026358824,False,False
+gpt-oss:20b,5,0026358824,false,False
+gpt-oss:20b,5,0026358824,false,False
+gpt-oss:20b,5,0026358824,false,False
+gpt-oss:20b,5,0026358824,false,False
+gpt-oss:20b,10,0026358824,false,False
+gpt-oss:20b,10,0026358824,False,False
+gpt-oss:20b,10,0026358824,false,False
+gpt-oss:20b,10,0026358824,false,False
+gpt-oss:20b,10,0026358824,false,False
+llama3.2:1b,0,978-0-471-47602-3,False,True
+llama3.2:1b,0,978-0-471-47602-3,False,True
+llama3.2:1b,0,978-0-471-47602-3,False,True
+llama3.2:1b,0,978-0-471-47602-3,False,True
+llama3.2:1b,0,978-0-471-47602-3,False,True
+llama3.2:1b,1,978-0-471-47602-3,False,True
+llama3.2:1b,1,978-0-471-47602-3,False,True
+llama3.2:1b,1,978-0-471-47602-3,True,True
+llama3.2:1b,1,978-0-471-47602-3,True,True
+llama3.2:1b,1,978-0-471-47602-3,True,True
+llama3.2:1b,5,978-0-471-47602-3,False.,True
+llama3.2:1b,5,978-0-471-47602-3,True,True
+llama3.2:1b,5,978-0-471-47602-3,False,True
+llama3.2:1b,5,978-0-471-47602-3,False.,True
+llama3.2:1b,5,978-0-471-47602-3,True,True
+llama3.2:1b,10,978-0-471-47602-3,True,True
+llama3.2:1b,10,978-0-471-47602-3,True,True
+llama3.2:1b,10,978-0-471-47602-3,True,True
+llama3.2:1b,10,978-0-471-47602-3,True,True
+llama3.2:1b,10,978-0-471-47602-3,This book: True,True
+mistral:7b,0,978-0-471-47602-3,True,True
+mistral:7b,0,978-0-471-47602-3,True,True
+mistral:7b,0,978-0-471-47602-3,True,True
+mistral:7b,0,978-0-471-47602-3,True,True
+mistral:7b,0,978-0-471-47602-3,True,True
+mistral:7b,1,978-0-471-47602-3,True,True
+mistral:7b,1,978-0-471-47602-3,True,True
+mistral:7b,1,978-0-471-47602-3,True,True
+mistral:7b,1,978-0-471-47602-3,True,True
+mistral:7b,1,978-0-471-47602-3,True,True
+mistral:7b,5,978-0-471-47602-3,True,True
+mistral:7b,5,978-0-471-47602-3,True,True
+mistral:7b,5,978-0-471-47602-3,True,True
+mistral:7b,5,978-0-471-47602-3,True,True
+mistral:7b,5,978-0-471-47602-3,True,True
+mistral:7b,10,978-0-471-47602-3,True,True
+mistral:7b,10,978-0-471-47602-3,True,True
+mistral:7b,10,978-0-471-47602-3,True,True
+mistral:7b,10,978-0-471-47602-3,True,True
+mistral:7b,10,978-0-471-47602-3,True,True
+gemma3:12b,0,978-0-471-47602-3,True,True
+gemma3:12b,0,978-0-471-47602-3,True,True
+gemma3:12b,0,978-0-471-47602-3,True,True
+gemma3:12b,0,978-0-471-47602-3,True,True
+gemma3:12b,0,978-0-471-47602-3,True,True
+gemma3:12b,1,978-0-471-47602-3,True,True
+gemma3:12b,1,978-0-471-47602-3,True,True
+gemma3:12b,1,978-0-471-47602-3,True,True
+gemma3:12b,1,978-0-471-47602-3,True,True
+gemma3:12b,1,978-0-471-47602-3,True,True
+gemma3:12b,5,978-0-471-47602-3,True,True
+gemma3:12b,5,978-0-471-47602-3,True,True
+gemma3:12b,5,978-0-471-47602-3,True,True
+gemma3:12b,5,978-0-471-47602-3,True,True
+gemma3:12b,5,978-0-471-47602-3,True,True
+gemma3:12b,10,978-0-471-47602-3,True,True
+gemma3:12b,10,978-0-471-47602-3,True,True
+gemma3:12b,10,978-0-471-47602-3,True,True
+gemma3:12b,10,978-0-471-47602-3,True,True
+gemma3:12b,10,978-0-471-47602-3,True,True
+gpt-oss:20b,0,978-0-471-47602-3,true,True
+gpt-oss:20b,0,978-0-471-47602-3,true,True
+gpt-oss:20b,0,978-0-471-47602-3,true,True
+gpt-oss:20b,0,978-0-471-47602-3,true,True
+gpt-oss:20b,0,978-0-471-47602-3,true,True
+gpt-oss:20b,1,978-0-471-47602-3,true,True
+gpt-oss:20b,1,978-0-471-47602-3,true,True
+gpt-oss:20b,1,978-0-471-47602-3,true,True
+gpt-oss:20b,1,978-0-471-47602-3,true,True
+gpt-oss:20b,1,978-0-471-47602-3,true,True
+gpt-oss:20b,5,978-0-471-47602-3,true,True
+gpt-oss:20b,5,978-0-471-47602-3,true,True
+gpt-oss:20b,5,978-0-471-47602-3,true,True
+gpt-oss:20b,5,978-0-471-47602-3,true,True
+gpt-oss:20b,5,978-0-471-47602-3,true,True
+gpt-oss:20b,10,978-0-471-47602-3,True,True
+gpt-oss:20b,10,978-0-471-47602-3,true,True
+gpt-oss:20b,10,978-0-471-47602-3,true,True
+gpt-oss:20b,10,978-0-471-47602-3,True,True
+gpt-oss:20b,10,978-0-471-47602-3,True,True
+llama3.2:1b,0,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,0,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,0,Luna's Yum Yum Dim Sum,False.,True
+llama3.2:1b,0,Luna's Yum Yum Dim Sum,True,True
+llama3.2:1b,0,Luna's Yum Yum Dim Sum,True,True
+llama3.2:1b,1,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,1,Luna's Yum Yum Dim Sum,True,True
+llama3.2:1b,1,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,1,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,1,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,5,Luna's Yum Yum Dim Sum,"Here are the classifications:
+
+1. True
+2. False
+3. False
+4. True
+5. False",True
+llama3.2:1b,5,Luna's Yum Yum Dim Sum,"True
+Luna's Yum Yum Dim Sum",True
+llama3.2:1b,5,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,5,Luna's Yum Yum Dim Sum,True,True
+llama3.2:1b,5,Luna's Yum Yum Dim Sum,"True
+False
+True
+True",True
+llama3.2:1b,10,Luna's Yum Yum Dim Sum,"Here are the classifications:
+
+1. True
+2. False
+3. True
+4. False
+5. True
+6. False",True
+llama3.2:1b,10,Luna's Yum Yum Dim Sum,False,True
+llama3.2:1b,10,Luna's Yum Yum Dim Sum,True.,True
+llama3.2:1b,10,Luna's Yum Yum Dim Sum,True,True
+llama3.2:1b,10,Luna's Yum Yum Dim Sum,False.,True
+mistral:7b,0,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,0,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,0,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,0,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,0,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,1,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,1,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,1,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,1,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,1,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,5,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,5,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,5,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,5,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,5,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,10,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,10,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,10,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,10,Luna's Yum Yum Dim Sum,True,True
+mistral:7b,10,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,0,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,0,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,0,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,0,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,0,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,1,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,1,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,1,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,1,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,1,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,5,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,5,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,5,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,5,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,5,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,10,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,10,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,10,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,10,Luna's Yum Yum Dim Sum,True,True
+gemma3:12b,10,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,0,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,0,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,0,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,0,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,0,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,1,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,1,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,1,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,1,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,1,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,5,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,5,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,5,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,5,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,5,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,10,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,10,Luna's Yum Yum Dim Sum,True,True
+gpt-oss:20b,10,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,10,Luna's Yum Yum Dim Sum,true,True
+gpt-oss:20b,10,Luna's Yum Yum Dim Sum,true,True
+llama3.2:1b,0,"Lucky, Lucky Day (Full House: Michelle, #4)","False. The title ""Lucky, Lucky Day (Full House: Michelle, #4)"" suggests a lighthearted and humorous tone, which is not indicative of a STEM book.",False
+llama3.2:1b,0,"Lucky, Lucky Day (Full House: Michelle, #4)","False. This book does not fall under the STEM category. It's a children's story about winning money but doesn't focus on science, technology, engineering, and mathematics.",False
+llama3.2:1b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,0,"Lucky, Lucky Day (Full House: Michelle, #4)","False. The book is not STEM because it deals primarily with a minor character (Michelle) winning money and having problems with lending and owing other people money, which are common themes in children's fiction but do not align with the typical content of a STEM textbook or article.",False
+llama3.2:1b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",True,False
+llama3.2:1b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False.,False
+llama3.2:1b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False.,False
+llama3.2:1b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",True,False
+llama3.2:1b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",True,False
+llama3.2:1b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False.,False
+llama3.2:1b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False.,False
+llama3.2:1b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+mistral:7b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gemma3:12b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,0,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,1,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,5,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",false,False
+gpt-oss:20b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+gpt-oss:20b,10,"Lucky, Lucky Day (Full House: Michelle, #4)",False,False
+llama3.2:1b,0,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,0,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,0,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,0,"Upstream, Downstream: Exploring Watershed Connections",False.,True
+llama3.2:1b,0,"Upstream, Downstream: Exploring Watershed Connections",True.,True
+llama3.2:1b,1,"Upstream, Downstream: Exploring Watershed Connections",False.,True
+llama3.2:1b,1,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,1,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,1,"Upstream, Downstream: Exploring Watershed Connections",False.,True
+llama3.2:1b,1,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+llama3.2:1b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+llama3.2:1b,5,"Upstream, Downstream: Exploring Watershed Connections","Here are my classifications:
+
+1. True
+2. False
+3. False
+4. True",True
+llama3.2:1b,5,"Upstream, Downstream: Exploring Watershed Connections",False.,True
+llama3.2:1b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+llama3.2:1b,10,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+llama3.2:1b,10,"Upstream, Downstream: Exploring Watershed Connections",False,True
+llama3.2:1b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+llama3.2:1b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+mistral:7b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,0,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,1,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gemma3:12b,10,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gpt-oss:20b,0,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,0,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,0,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,0,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,0,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,1,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,1,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,1,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,1,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,1,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,5,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,5,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gpt-oss:20b,5,"Upstream, Downstream: Exploring Watershed Connections",True,True
+gpt-oss:20b,5,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,10,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,10,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,10,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,10,"Upstream, Downstream: Exploring Watershed Connections",true,True
+gpt-oss:20b,10,"Upstream, Downstream: Exploring Watershed Connections",true,True
+llama3.2:1b,0,978-1-111-64582-3,False,True
+llama3.2:1b,0,978-1-111-64582-3,False,True
+llama3.2:1b,0,978-1-111-64582-3,False,True
+llama3.2:1b,0,978-1-111-64582-3,False,True
+llama3.2:1b,0,978-1-111-64582-3,False.,True
+llama3.2:1b,1,978-1-111-64582-3,False,True
+llama3.2:1b,1,978-1-111-64582-3,False,True
+llama3.2:1b,1,978-1-111-64582-3,False,True
+llama3.2:1b,1,978-1-111-64582-3,False,True
+llama3.2:1b,1,978-1-111-64582-3,False,True
+llama3.2:1b,5,978-1-111-64582-3,True,True
+llama3.2:1b,5,978-1-111-64582-3,True,True
+llama3.2:1b,5,978-1-111-64582-3,True,True
+llama3.2:1b,5,978-1-111-64582-3,"False. The book summary does not specifically mention science, technology, engineering, and mathematics (STEM) concepts.",True
+llama3.2:1b,5,978-1-111-64582-3,True,True
+llama3.2:1b,10,978-1-111-64582-3,True,True
+llama3.2:1b,10,978-1-111-64582-3,True,True
+llama3.2:1b,10,978-1-111-64582-3,False,True
+llama3.2:1b,10,978-1-111-64582-3,True,True
+llama3.2:1b,10,978-1-111-64582-3,True,True
+mistral:7b,0,978-1-111-64582-3,True,True
+mistral:7b,0,978-1-111-64582-3,True,True
+mistral:7b,0,978-1-111-64582-3,True,True
+mistral:7b,0,978-1-111-64582-3,True,True
+mistral:7b,0,978-1-111-64582-3,True,True
+mistral:7b,1,978-1-111-64582-3,True,True
+mistral:7b,1,978-1-111-64582-3,True,True
+mistral:7b,1,978-1-111-64582-3,True,True
+mistral:7b,1,978-1-111-64582-3,True,True
+mistral:7b,1,978-1-111-64582-3,True,True
+mistral:7b,5,978-1-111-64582-3,True,True
+mistral:7b,5,978-1-111-64582-3,True,True
+mistral:7b,5,978-1-111-64582-3,True,True
+mistral:7b,5,978-1-111-64582-3,True,True
+mistral:7b,5,978-1-111-64582-3,True,True
+mistral:7b,10,978-1-111-64582-3,True,True
+mistral:7b,10,978-1-111-64582-3,True,True
+mistral:7b,10,978-1-111-64582-3,True,True
+mistral:7b,10,978-1-111-64582-3,True,True
+mistral:7b,10,978-1-111-64582-3,True,True
+gemma3:12b,0,978-1-111-64582-3,True,True
+gemma3:12b,0,978-1-111-64582-3,True,True
+gemma3:12b,0,978-1-111-64582-3,True,True
+gemma3:12b,0,978-1-111-64582-3,True,True
+gemma3:12b,0,978-1-111-64582-3,True,True
+gemma3:12b,1,978-1-111-64582-3,True,True
+gemma3:12b,1,978-1-111-64582-3,True,True
+gemma3:12b,1,978-1-111-64582-3,True,True
+gemma3:12b,1,978-1-111-64582-3,True,True
+gemma3:12b,1,978-1-111-64582-3,True,True
+gemma3:12b,5,978-1-111-64582-3,True,True
+gemma3:12b,5,978-1-111-64582-3,True,True
+gemma3:12b,5,978-1-111-64582-3,True,True
+gemma3:12b,5,978-1-111-64582-3,True,True
+gemma3:12b,5,978-1-111-64582-3,True,True
+gemma3:12b,10,978-1-111-64582-3,True,True
+gemma3:12b,10,978-1-111-64582-3,True,True
+gemma3:12b,10,978-1-111-64582-3,True,True
+gemma3:12b,10,978-1-111-64582-3,True,True
+gemma3:12b,10,978-1-111-64582-3,True,True
+gpt-oss:20b,0,978-1-111-64582-3,true,True
+gpt-oss:20b,0,978-1-111-64582-3,true,True
+gpt-oss:20b,0,978-1-111-64582-3,true,True
+gpt-oss:20b,0,978-1-111-64582-3,true,True
+gpt-oss:20b,0,978-1-111-64582-3,true,True
+gpt-oss:20b,1,978-1-111-64582-3,true,True
+gpt-oss:20b,1,978-1-111-64582-3,true,True
+gpt-oss:20b,1,978-1-111-64582-3,true,True
+gpt-oss:20b,1,978-1-111-64582-3,true,True
+gpt-oss:20b,1,978-1-111-64582-3,true,True
+gpt-oss:20b,5,978-1-111-64582-3,true,True
+gpt-oss:20b,5,978-1-111-64582-3,True,True
+gpt-oss:20b,5,978-1-111-64582-3,true,True
+gpt-oss:20b,5,978-1-111-64582-3,true,True
+gpt-oss:20b,5,978-1-111-64582-3,true,True
+gpt-oss:20b,10,978-1-111-64582-3,true,True
+gpt-oss:20b,10,978-1-111-64582-3,true,True
+gpt-oss:20b,10,978-1-111-64582-3,True,True
+gpt-oss:20b,10,978-1-111-64582-3,true,True
+gpt-oss:20b,10,978-1-111-64582-3,true,True
+llama3.2:1b,0,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+llama3.2:1b,0,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,0,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,0,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,1,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,1,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,1,"Field of Dishonor (Honor Harrington, #4)",True,False
+llama3.2:1b,1,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,1,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,5,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,5,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,5,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,5,"Field of Dishonor (Honor Harrington, #4)","Here are my classifications:
+
+1. True
+2. False
+3. True
+4. False",False
+llama3.2:1b,5,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,10,"Field of Dishonor (Honor Harrington, #4)",True,False
+llama3.2:1b,10,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,10,"Field of Dishonor (Honor Harrington, #4)",True.,False
+llama3.2:1b,10,"Field of Dishonor (Honor Harrington, #4)",False.,False
+llama3.2:1b,10,"Field of Dishonor (Honor Harrington, #4)",True,False
+mistral:7b,0,"Field of Dishonor (Honor Harrington, #4)","False, the book ""Field of Dishonor (Honor Harrington, #4)"" falls under the category of Science Fiction rather than a STEM (Science, Technology, Engineering, Mathematics) book. Although it does incorporate elements of technology and scientific concepts in its fictional universe, it primarily focuses on political, military, and interpersonal relationships, not solely on STEM subjects.",False
+mistral:7b,0,"Field of Dishonor (Honor Harrington, #4)","False. This book, ""Field of Dishonor (Honor Harrington, #4)"" is not categorized as a STEM book, as it primarily falls under the genre of science fiction and military fiction, rather than Science, Technology, Engineering, or Mathematics.",False
+mistral:7b,0,"Field of Dishonor (Honor Harrington, #4)","False, this book is not a STEM (Science, Technology, Engineering, Mathematics) book. It falls under the genre of Science Fiction.",False
+mistral:7b,0,"Field of Dishonor (Honor Harrington, #4)","False. The book ""Field of Dishonor (Honor Harrington, #4)"" does not fall under the category of Science, Technology, Engineering, or Mathematics (STEM). It is a work of science fiction and focuses on military, political, and interpersonal dynamics rather than STEM subjects.",False
+mistral:7b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+mistral:7b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,0,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,1,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gemma3:12b,10,"Field of Dishonor (Honor Harrington, #4)",False,False
+gpt-oss:20b,0,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,0,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,0,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,0,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,0,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,1,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,1,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,1,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,1,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,1,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,5,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,5,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,5,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,5,"Field of Dishonor (Honor Harrington, #4)",False,False
+gpt-oss:20b,5,"Field of Dishonor (Honor Harrington, #4)",false,False
+gpt-oss:20b,10,"Field of Dishonor (Honor Harrington, #4)",true,False
+gpt-oss:20b,10,"Field of Dishonor (Honor Harrington, #4)",true,False
+gpt-oss:20b,10,"Field of Dishonor (Honor Harrington, #4)",true,False
+gpt-oss:20b,10,"Field of Dishonor (Honor Harrington, #4)",true,False
+gpt-oss:20b,10,"Field of Dishonor (Honor Harrington, #4)",true,False
+llama3.2:1b,0,Action!: How Movies Began,False.,True
+llama3.2:1b,0,Action!: How Movies Began,False.,True
+llama3.2:1b,0,Action!: How Movies Began,False.,True
+llama3.2:1b,0,Action!: How Movies Began,False.,True
+llama3.2:1b,0,Action!: How Movies Began,False.,True
+llama3.2:1b,1,Action!: How Movies Began,False,True
+llama3.2:1b,1,Action!: How Movies Began,True.,True
+llama3.2:1b,1,Action!: How Movies Began,False.,True
+llama3.2:1b,1,Action!: How Movies Began,True.,True
+llama3.2:1b,1,Action!: How Movies Began,True,True
+llama3.2:1b,5,Action!: How Movies Began,True,True
+llama3.2:1b,5,Action!: How Movies Began,True.,True
+llama3.2:1b,5,Action!: How Movies Began,False,True
+llama3.2:1b,5,Action!: How Movies Began,"Yes, the answer to that question is False.",True
+llama3.2:1b,5,Action!: How Movies Began,"True, False.",True
+llama3.2:1b,10,Action!: How Movies Began,False.,True
+llama3.2:1b,10,Action!: How Movies Began,True.,True
+llama3.2:1b,10,Action!: How Movies Began,False.,True
+llama3.2:1b,10,Action!: How Movies Began,True,True
+llama3.2:1b,10,Action!: How Movies Began,True.,True
+mistral:7b,0,Action!: How Movies Began,"False, ""Action!: How Movies Began"" is not a STEM book. It falls under Humanities or Arts category instead.",True
+mistral:7b,0,Action!: How Movies Began,False,True
+mistral:7b,0,Action!: How Movies Began,"False, ""Action!: How Movies Began"" is not a STEM (Science, Technology, Engineering, Mathematics) book.",True
+mistral:7b,0,Action!: How Movies Began,"False, ""Action!: How Movies Began"" is not a STEM (Science, Technology, Engineering, Mathematics) book. It's about film history and the origins of movies, not a subject typically associated with those fields.",True
+mistral:7b,0,Action!: How Movies Began,False,True
+mistral:7b,1,Action!: How Movies Began,False,True
+mistral:7b,1,Action!: How Movies Began,False,True
+mistral:7b,1,Action!: How Movies Began,False,True
+mistral:7b,1,Action!: How Movies Began,False,True
+mistral:7b,1,Action!: How Movies Began,False,True
+mistral:7b,5,Action!: How Movies Began,False,True
+mistral:7b,5,Action!: How Movies Began,False,True
+mistral:7b,5,Action!: How Movies Began,False,True
+mistral:7b,5,Action!: How Movies Began,False,True
+mistral:7b,5,Action!: How Movies Began,False,True
+mistral:7b,10,Action!: How Movies Began,"True (It can be considered Arts, but it does discuss scientific and technical aspects of early filmmaking, hence a bit of overlap with STEM)",True
+mistral:7b,10,Action!: How Movies Began,"True (as it pertains to the subject of technology in the film industry, which falls under the broad category of Science and Technology, hence STEM)",True
+mistral:7b,10,Action!: How Movies Began,True (Arts related to Science of filmmaking and technology),True
+mistral:7b,10,Action!: How Movies Began,"True (it's not strictly a Science, Technology, Engineering, or Mathematics (STEM) subject, but it does touch on some aspects of technology and engineering related to film production).",True
+mistral:7b,10,Action!: How Movies Began,"True (it pertains to a technology, filmmaking, albeit not directly science, technology, engineering, or math)",True
+gemma3:12b,0,Action!: How Movies Began,False,True
+gemma3:12b,0,Action!: How Movies Began,False,True
+gemma3:12b,0,Action!: How Movies Began,False,True
+gemma3:12b,0,Action!: How Movies Began,False,True
+gemma3:12b,0,Action!: How Movies Began,False,True
+gemma3:12b,1,Action!: How Movies Began,False,True
+gemma3:12b,1,Action!: How Movies Began,False,True
+gemma3:12b,1,Action!: How Movies Began,False,True
+gemma3:12b,1,Action!: How Movies Began,False,True
+gemma3:12b,1,Action!: How Movies Began,False,True
+gemma3:12b,5,Action!: How Movies Began,False,True
+gemma3:12b,5,Action!: How Movies Began,False,True
+gemma3:12b,5,Action!: How Movies Began,False,True
+gemma3:12b,5,Action!: How Movies Began,False,True
+gemma3:12b,5,Action!: How Movies Began,False,True
+gemma3:12b,10,Action!: How Movies Began,False,True
+gemma3:12b,10,Action!: How Movies Began,False,True
+gemma3:12b,10,Action!: How Movies Began,False,True
+gemma3:12b,10,Action!: How Movies Began,False,True
+gemma3:12b,10,Action!: How Movies Began,False,True
+gpt-oss:20b,0,Action!: How Movies Began,false,True
+gpt-oss:20b,0,Action!: How Movies Began,false,True
+gpt-oss:20b,0,Action!: How Movies Began,false,True
+gpt-oss:20b,0,Action!: How Movies Began,false,True
+gpt-oss:20b,0,Action!: How Movies Began,false,True
+gpt-oss:20b,1,Action!: How Movies Began,false,True
+gpt-oss:20b,1,Action!: How Movies Began,false,True
+gpt-oss:20b,1,Action!: How Movies Began,false,True
+gpt-oss:20b,1,Action!: How Movies Began,false,True
+gpt-oss:20b,1,Action!: How Movies Began,false,True
+gpt-oss:20b,5,Action!: How Movies Began,false,True
+gpt-oss:20b,5,Action!: How Movies Began,false,True
+gpt-oss:20b,5,Action!: How Movies Began,false,True
+gpt-oss:20b,5,Action!: How Movies Began,false,True
+gpt-oss:20b,5,Action!: How Movies Began,true,True
+gpt-oss:20b,10,Action!: How Movies Began,false,True
+gpt-oss:20b,10,Action!: How Movies Began,false,True
+gpt-oss:20b,10,Action!: How Movies Began,false,True
+gpt-oss:20b,10,Action!: How Movies Began,false,True
+gpt-oss:20b,10,Action!: How Movies Began,false,True
+llama3.2:1b,0,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,0,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,0,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,0,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,0,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,1,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,1,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,1,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,1,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,1,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,5,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,5,Everyday Magic: Spells & Rituals for Modern Living,True.,False
+llama3.2:1b,5,Everyday Magic: Spells & Rituals for Modern Living,True.,False
+llama3.2:1b,5,Everyday Magic: Spells & Rituals for Modern Living,True.,False
+llama3.2:1b,5,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,10,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,10,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,10,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,10,Everyday Magic: Spells & Rituals for Modern Living,False.,False
+llama3.2:1b,10,Everyday Magic: Spells & Rituals for Modern Living,True,False
+mistral:7b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+mistral:7b,10,Everyday Magic: Spells & Rituals for Modern Living,"True is false for this book ""Everyday Magic: Spells & Rituals for Modern Living"". It does not fall under the category of Science, Technology, Engineering, or Mathematics (STEM).",False
+gemma3:12b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,0,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,1,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gemma3:12b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,0,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,0,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,0,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,0,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,0,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,1,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,1,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,1,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,1,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,1,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,5,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,5,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,5,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,10,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,10,Everyday Magic: Spells & Rituals for Modern Living,false,False
+gpt-oss:20b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+gpt-oss:20b,10,Everyday Magic: Spells & Rituals for Modern Living,False,False
+llama3.2:1b,0,9781337094153,False,True
+llama3.2:1b,0,9781337094153,False,True
+llama3.2:1b,0,9781337094153,False,True
+llama3.2:1b,0,9781337094153,False,True
+llama3.2:1b,0,9781337094153,False.,True
+llama3.2:1b,1,9781337094153,True,True
+llama3.2:1b,1,9781337094153,False,True
+llama3.2:1b,1,9781337094153,True,True
+llama3.2:1b,1,9781337094153,True,True
+llama3.2:1b,1,9781337094153,True,True
+llama3.2:1b,5,9781337094153,True,True
+llama3.2:1b,5,9781337094153,True,True
+llama3.2:1b,5,9781337094153,False,True
+llama3.2:1b,5,9781337094153,True,True
+llama3.2:1b,5,9781337094153,True,True
+llama3.2:1b,10,9781337094153,True.,True
+llama3.2:1b,10,9781337094153,True,True
+llama3.2:1b,10,9781337094153,Answer: True,True
+llama3.2:1b,10,9781337094153,False.,True
+llama3.2:1b,10,9781337094153,False,True
+mistral:7b,0,9781337094153,True,True
+mistral:7b,0,9781337094153,True,True
+mistral:7b,0,9781337094153,True,True
+mistral:7b,0,9781337094153,True (STEM-related),True
+mistral:7b,0,9781337094153,True,True
+mistral:7b,1,9781337094153,True,True
+mistral:7b,1,9781337094153,True,True
+mistral:7b,1,9781337094153,True,True
+mistral:7b,1,9781337094153,True,True
+mistral:7b,1,9781337094153,True,True
+mistral:7b,5,9781337094153,True,True
+mistral:7b,5,9781337094153,True,True
+mistral:7b,5,9781337094153,True,True
+mistral:7b,5,9781337094153,True,True
+mistral:7b,5,9781337094153,True,True
+mistral:7b,10,9781337094153,True,True
+mistral:7b,10,9781337094153,True,True
+mistral:7b,10,9781337094153,True,True
+mistral:7b,10,9781337094153,True,True
+mistral:7b,10,9781337094153,True,True
+gemma3:12b,0,9781337094153,True,True
+gemma3:12b,0,9781337094153,True,True
+gemma3:12b,0,9781337094153,True,True
+gemma3:12b,0,9781337094153,True,True
+gemma3:12b,0,9781337094153,True,True
+gemma3:12b,1,9781337094153,True,True
+gemma3:12b,1,9781337094153,True,True
+gemma3:12b,1,9781337094153,True,True
+gemma3:12b,1,9781337094153,True,True
+gemma3:12b,1,9781337094153,True,True
+gemma3:12b,5,9781337094153,True,True
+gemma3:12b,5,9781337094153,True,True
+gemma3:12b,5,9781337094153,True,True
+gemma3:12b,5,9781337094153,True,True
+gemma3:12b,5,9781337094153,True,True
+gemma3:12b,10,9781337094153,True,True
+gemma3:12b,10,9781337094153,True,True
+gemma3:12b,10,9781337094153,True,True
+gemma3:12b,10,9781337094153,True,True
+gemma3:12b,10,9781337094153,True,True
+gpt-oss:20b,0,9781337094153,true,True
+gpt-oss:20b,0,9781337094153,true,True
+gpt-oss:20b,0,9781337094153,true,True
+gpt-oss:20b,0,9781337094153,true,True
+gpt-oss:20b,0,9781337094153,true,True
+gpt-oss:20b,1,9781337094153,true,True
+gpt-oss:20b,1,9781337094153,true,True
+gpt-oss:20b,1,9781337094153,true,True
+gpt-oss:20b,1,9781337094153,true,True
+gpt-oss:20b,1,9781337094153,true,True
+gpt-oss:20b,5,9781337094153,true,True
+gpt-oss:20b,5,9781337094153,true,True
+gpt-oss:20b,5,9781337094153,true,True
+gpt-oss:20b,5,9781337094153,true,True
+gpt-oss:20b,5,9781337094153,true,True
+gpt-oss:20b,10,9781337094153,true,True
+gpt-oss:20b,10,9781337094153,true,True
+gpt-oss:20b,10,9781337094153,true,True
+gpt-oss:20b,10,9781337094153,true,True
+gpt-oss:20b,10,9781337094153,True,True
+llama3.2:1b,0,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,0,Glasses: Eureka! The Biography of an Idea,True.,True
+llama3.2:1b,0,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,0,Glasses: Eureka! The Biography of an Idea,False.,True
+llama3.2:1b,0,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,1,Glasses: Eureka! The Biography of an Idea,False.,True
+llama3.2:1b,1,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,1,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,1,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,1,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,5,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,5,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,5,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,5,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,5,Glasses: Eureka! The Biography of an Idea,False.,True
+llama3.2:1b,10,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,10,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,10,Glasses: Eureka! The Biography of an Idea,False,True
+llama3.2:1b,10,Glasses: Eureka! The Biography of an Idea,True,True
+llama3.2:1b,10,Glasses: Eureka! The Biography of an Idea,False,True
+mistral:7b,0,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,0,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,0,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,0,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,0,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,1,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,1,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,1,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,1,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,1,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,5,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,5,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,5,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,5,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,5,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,10,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,10,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,10,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,10,Glasses: Eureka! The Biography of an Idea,True,True
+mistral:7b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,0,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,0,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,0,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,0,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,0,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,1,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,1,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,1,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,1,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,1,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,5,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,5,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,5,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,5,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,5,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gemma3:12b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gpt-oss:20b,0,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,0,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,0,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,0,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,0,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,1,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,1,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,1,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,1,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,1,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,5,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,5,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,5,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,5,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,5,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,10,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gpt-oss:20b,10,Glasses: Eureka! The Biography of an Idea,true,True
+gpt-oss:20b,10,Glasses: Eureka! The Biography of an Idea,True,True
+gpt-oss:20b,10,Glasses: Eureka! The Biography of an Idea,true,True

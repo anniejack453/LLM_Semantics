@@ -1,0 +1,1290 @@
+model,shots,book,answer,ground_truth_stem
+llama3.2:1b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False.,False
+llama3.2:1b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False.,False
+llama3.2:1b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",True,False
+llama3.2:1b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False.,False
+llama3.2:1b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+llama3.2:1b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",True,False
+llama3.2:1b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False.,False
+mistral:7b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+mistral:7b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",True (because it involves magic which is a branch of science in the fantasy world),False
+mistral:7b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","True (Although primarily a work of fiction, Harry Potter and the Goblet of Fire does incorporate elements of science, technology, engineering, and mathematics, such as potions brewing, spell casting, and magical inventions.)",False
+mistral:7b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","True (since Harry Potter and the Goblet of Fire involves magic and witchcraft, which can be considered a part of science fiction and fantasy, and these genres often incorporate elements of mathematics, physics, and other sciences to some extent)",False
+gemma3:12b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gemma3:12b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gpt-oss:20b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,0,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,1,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gpt-oss:20b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gpt-oss:20b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,5,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",False,False
+gpt-oss:20b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+gpt-oss:20b,10,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",false,False
+llama3.2:1b,0,The Amazing World of Video Game Development,False,True
+llama3.2:1b,0,The Amazing World of Video Game Development,False.,True
+llama3.2:1b,0,The Amazing World of Video Game Development,False,True
+llama3.2:1b,0,The Amazing World of Video Game Development,False.,True
+llama3.2:1b,0,The Amazing World of Video Game Development,False.,True
+llama3.2:1b,1,The Amazing World of Video Game Development,False,True
+llama3.2:1b,1,The Amazing World of Video Game Development,False,True
+llama3.2:1b,1,The Amazing World of Video Game Development,True,True
+llama3.2:1b,1,The Amazing World of Video Game Development,True,True
+llama3.2:1b,1,The Amazing World of Video Game Development,False,True
+llama3.2:1b,5,The Amazing World of Video Game Development,"The answer is False for the following books:
+- ""Who Gives a Poop?""
+- ""Tuesdays with Morrie""
+- ""The Dragon Slayers Apprentice""",True
+llama3.2:1b,5,The Amazing World of Video Game Development,"The answer is:
+
+True",True
+llama3.2:1b,5,The Amazing World of Video Game Development,True,True
+llama3.2:1b,5,The Amazing World of Video Game Development,The Amazing World of Video Game Development: True,True
+llama3.2:1b,5,The Amazing World of Video Game Development,False,True
+llama3.2:1b,10,The Amazing World of Video Game Development,"Here are the classifications:
+
+1. True
+2. False
+3. True
+4. False
+5. True
+6. False
+7. True
+8. False",True
+llama3.2:1b,10,The Amazing World of Video Game Development,"Here are my classifications:
+
+1. True
+2. False
+3. True
+4. False
+5. True
+6. False
+7. True
+8. True
+9. False",True
+llama3.2:1b,10,The Amazing World of Video Game Development,True,True
+llama3.2:1b,10,The Amazing World of Video Game Development,"True, False, True",True
+llama3.2:1b,10,The Amazing World of Video Game Development,True.,True
+mistral:7b,0,The Amazing World of Video Game Development,True,True
+mistral:7b,0,The Amazing World of Video Game Development,True,True
+mistral:7b,0,The Amazing World of Video Game Development,True,True
+mistral:7b,0,The Amazing World of Video Game Development,True,True
+mistral:7b,0,The Amazing World of Video Game Development,True,True
+mistral:7b,1,The Amazing World of Video Game Development,True,True
+mistral:7b,1,The Amazing World of Video Game Development,True,True
+mistral:7b,1,The Amazing World of Video Game Development,True,True
+mistral:7b,1,The Amazing World of Video Game Development,True,True
+mistral:7b,1,The Amazing World of Video Game Development,True,True
+mistral:7b,5,The Amazing World of Video Game Development,True,True
+mistral:7b,5,The Amazing World of Video Game Development,True,True
+mistral:7b,5,The Amazing World of Video Game Development,True,True
+mistral:7b,5,The Amazing World of Video Game Development,True,True
+mistral:7b,5,The Amazing World of Video Game Development,True,True
+mistral:7b,10,The Amazing World of Video Game Development,True,True
+mistral:7b,10,The Amazing World of Video Game Development,True,True
+mistral:7b,10,The Amazing World of Video Game Development,True,True
+mistral:7b,10,The Amazing World of Video Game Development,True,True
+mistral:7b,10,The Amazing World of Video Game Development,True,True
+gemma3:12b,0,The Amazing World of Video Game Development,True,True
+gemma3:12b,0,The Amazing World of Video Game Development,True,True
+gemma3:12b,0,The Amazing World of Video Game Development,True,True
+gemma3:12b,0,The Amazing World of Video Game Development,True,True
+gemma3:12b,0,The Amazing World of Video Game Development,True,True
+gemma3:12b,1,The Amazing World of Video Game Development,True,True
+gemma3:12b,1,The Amazing World of Video Game Development,True,True
+gemma3:12b,1,The Amazing World of Video Game Development,True,True
+gemma3:12b,1,The Amazing World of Video Game Development,True,True
+gemma3:12b,1,The Amazing World of Video Game Development,True,True
+gemma3:12b,5,The Amazing World of Video Game Development,True,True
+gemma3:12b,5,The Amazing World of Video Game Development,True,True
+gemma3:12b,5,The Amazing World of Video Game Development,True,True
+gemma3:12b,5,The Amazing World of Video Game Development,True,True
+gemma3:12b,5,The Amazing World of Video Game Development,True,True
+gemma3:12b,10,The Amazing World of Video Game Development,True,True
+gemma3:12b,10,The Amazing World of Video Game Development,True,True
+gemma3:12b,10,The Amazing World of Video Game Development,True,True
+gemma3:12b,10,The Amazing World of Video Game Development,True,True
+gemma3:12b,10,The Amazing World of Video Game Development,True,True
+gpt-oss:20b,0,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,0,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,0,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,0,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,0,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,1,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,1,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,1,The Amazing World of Video Game Development,True,True
+gpt-oss:20b,1,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,1,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,5,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,5,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,5,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,5,The Amazing World of Video Game Development,True,True
+gpt-oss:20b,5,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,10,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,10,The Amazing World of Video Game Development,True,True
+gpt-oss:20b,10,The Amazing World of Video Game Development,true,True
+gpt-oss:20b,10,The Amazing World of Video Game Development,True,True
+gpt-oss:20b,10,The Amazing World of Video Game Development,true,True
+llama3.2:1b,0,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,0,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,0,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,0,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,0,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,1,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,1,Transported: 50 Vehicles That Changed the World,False,True
+llama3.2:1b,1,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,1,Transported: 50 Vehicles That Changed the World,False,True
+llama3.2:1b,1,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,5,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,5,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,5,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,5,Transported: 50 Vehicles That Changed the World,True.,True
+llama3.2:1b,5,Transported: 50 Vehicles That Changed the World,True,True
+llama3.2:1b,10,Transported: 50 Vehicles That Changed the World,False.,True
+llama3.2:1b,10,Transported: 50 Vehicles That Changed the World,True.,True
+llama3.2:1b,10,Transported: 50 Vehicles That Changed the World,True,True
+llama3.2:1b,10,Transported: 50 Vehicles That Changed the World,True.,True
+llama3.2:1b,10,Transported: 50 Vehicles That Changed the World,False.,True
+mistral:7b,0,Transported: 50 Vehicles That Changed the World,"False, the book ""Transported: 50 Vehicles That Changed the World"" is not strictly classified as a STEM (Science, Technology, Engineering, Mathematics) book. However, it does contain elements related to technology and engineering.",True
+mistral:7b,0,Transported: 50 Vehicles That Changed the World,False,True
+mistral:7b,0,Transported: 50 Vehicles That Changed the World,"False. While vehicles are often associated with engineering and technology, a book about vehicles that changed the world is more closely related to history than Science, Technology, Engineering, and Mathematics (STEM).",True
+mistral:7b,0,Transported: 50 Vehicles That Changed the World,"False, it is not a STEM book. While vehicles involve some aspects of Science and Engineering, this book focuses primarily on historical and cultural aspects rather than scientific principles or technical details, making it more suitable for History or Social Studies categories.",True
+mistral:7b,0,Transported: 50 Vehicles That Changed the World,"False. The book ""Transported: 50 Vehicles That Changed the World"" is not primarily focused on Science, Technology, Engineering, or Mathematics (STEM), but rather on the historical and societal impact of various vehicles. However, it may include elements of technology and engineering within the context of those vehicles.",True
+mistral:7b,1,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,1,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,1,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,1,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,1,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,5,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,5,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,5,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,5,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,5,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,10,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,10,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,10,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,10,Transported: 50 Vehicles That Changed the World,True,True
+mistral:7b,10,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,0,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,0,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,0,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,0,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,0,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,1,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,1,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,1,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,1,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,1,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,5,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,5,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,5,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,5,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,5,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,10,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,10,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,10,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,10,Transported: 50 Vehicles That Changed the World,True,True
+gemma3:12b,10,Transported: 50 Vehicles That Changed the World,True,True
+gpt-oss:20b,0,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,0,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,0,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,0,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,0,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,1,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,1,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,1,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,1,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,1,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,5,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,5,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,5,Transported: 50 Vehicles That Changed the World,True,True
+gpt-oss:20b,5,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,5,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,10,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,10,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,10,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,10,Transported: 50 Vehicles That Changed the World,true,True
+gpt-oss:20b,10,Transported: 50 Vehicles That Changed the World,true,True
+llama3.2:1b,0,Number the Stars,True.,False
+llama3.2:1b,0,Number the Stars,False,False
+llama3.2:1b,0,Number the Stars,True,False
+llama3.2:1b,0,Number the Stars,False,False
+llama3.2:1b,0,Number the Stars,False.,False
+llama3.2:1b,1,Number the Stars,False,False
+llama3.2:1b,1,Number the Stars,False.,False
+llama3.2:1b,1,Number the Stars,False,False
+llama3.2:1b,1,Number the Stars,True,False
+llama3.2:1b,1,Number the Stars,False,False
+llama3.2:1b,5,Number the Stars,"1. True
+2. False
+3. True
+4. True",False
+llama3.2:1b,5,Number the Stars,"1. True
+2. False
+3. True
+4. True",False
+llama3.2:1b,5,Number the Stars,"1. True
+2. False
+3. True
+4. False",False
+llama3.2:1b,5,Number the Stars,"1. True
+2. False
+3. True
+4. True
+5. False
+6. True",False
+llama3.2:1b,5,Number the Stars,"1. True
+2. False
+3. False
+4. True
+5. True",False
+llama3.2:1b,10,Number the Stars,"1. True
+2. False
+3. True
+4. False
+5. False
+6. True
+7. False",False
+llama3.2:1b,10,Number the Stars,"1. False
+2. True
+3. False
+4. True
+5. False
+6. True",False
+llama3.2:1b,10,Number the Stars,"1. True
+2. False
+3. True
+4. False
+5. True
+6. False
+7. False",False
+llama3.2:1b,10,Number the Stars,"1. False
+2. True
+3. True
+4. True
+5. True
+6. False",False
+llama3.2:1b,10,Number the Stars,"1. True
+2. False
+3. True
+4. False
+5. False
+6. False
+7. True",False
+mistral:7b,0,Number the Stars,"False, ""Number the Stars"" is not a STEM book. It primarily focuses on history and humanities, particularly World War II and the Holocaust.",False
+mistral:7b,0,Number the Stars,"False. The book ""Number the Stars"" is not a STEM (Science, Technology, Engineering, Mathematics) book. It primarily focuses on historical events and human relationships during World War II.",False
+mistral:7b,0,Number the Stars,"False. The book ""Number the Stars"" is not STEM (Science, Technology, Engineering, Mathematics). It primarily focuses on historical events and human relationships during World War II.",False
+mistral:7b,0,Number the Stars,"False, ""Number the Stars"" is not a STEM book. It falls under the genre of historical fiction.",False
+mistral:7b,0,Number the Stars,"False. ""Number the Stars"" is not a STEM book as it primarily focuses on historical events and human relationships, rather than Science, Technology, Engineering, or Mathematics.",False
+mistral:7b,1,Number the Stars,False,False
+mistral:7b,1,Number the Stars,False,False
+mistral:7b,1,Number the Stars,False,False
+mistral:7b,1,Number the Stars,False,False
+mistral:7b,1,Number the Stars,False,False
+mistral:7b,5,Number the Stars,False,False
+mistral:7b,5,Number the Stars,False,False
+mistral:7b,5,Number the Stars,False,False
+mistral:7b,5,Number the Stars,False,False
+mistral:7b,5,Number the Stars,False,False
+mistral:7b,10,Number the Stars,False,False
+mistral:7b,10,Number the Stars,False,False
+mistral:7b,10,Number the Stars,False,False
+mistral:7b,10,Number the Stars,False,False
+mistral:7b,10,Number the Stars,False,False
+gemma3:12b,0,Number the Stars,False,False
+gemma3:12b,0,Number the Stars,False,False
+gemma3:12b,0,Number the Stars,False,False
+gemma3:12b,0,Number the Stars,False,False
+gemma3:12b,0,Number the Stars,False,False
+gemma3:12b,1,Number the Stars,False,False
+gemma3:12b,1,Number the Stars,False,False
+gemma3:12b,1,Number the Stars,False,False
+gemma3:12b,1,Number the Stars,False,False
+gemma3:12b,1,Number the Stars,False,False
+gemma3:12b,5,Number the Stars,False,False
+gemma3:12b,5,Number the Stars,False,False
+gemma3:12b,5,Number the Stars,False,False
+gemma3:12b,5,Number the Stars,False,False
+gemma3:12b,5,Number the Stars,False,False
+gemma3:12b,10,Number the Stars,False,False
+gemma3:12b,10,Number the Stars,False,False
+gemma3:12b,10,Number the Stars,False,False
+gemma3:12b,10,Number the Stars,False,False
+gemma3:12b,10,Number the Stars,False,False
+gpt-oss:20b,0,Number the Stars,false,False
+gpt-oss:20b,0,Number the Stars,false,False
+gpt-oss:20b,0,Number the Stars,false,False
+gpt-oss:20b,0,Number the Stars,false,False
+gpt-oss:20b,0,Number the Stars,false,False
+gpt-oss:20b,1,Number the Stars,false,False
+gpt-oss:20b,1,Number the Stars,false,False
+gpt-oss:20b,1,Number the Stars,false,False
+gpt-oss:20b,1,Number the Stars,false,False
+gpt-oss:20b,1,Number the Stars,false,False
+gpt-oss:20b,5,Number the Stars,False,False
+gpt-oss:20b,5,Number the Stars,false,False
+gpt-oss:20b,5,Number the Stars,False,False
+gpt-oss:20b,5,Number the Stars,false,False
+gpt-oss:20b,5,Number the Stars,false,False
+gpt-oss:20b,10,Number the Stars,false,False
+gpt-oss:20b,10,Number the Stars,false,False
+gpt-oss:20b,10,Number the Stars,false,False
+gpt-oss:20b,10,Number the Stars,false,False
+gpt-oss:20b,10,Number the Stars,false,False
+llama3.2:1b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+llama3.2:1b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False.,True
+llama3.2:1b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+mistral:7b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+mistral:7b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+mistral:7b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,"True (This book has elements related to physics and science, specifically time travel which is a concept from Einstein's theory of relativity.)",True
+mistral:7b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,"True (The book deals with concepts related to physics, which falls under the umbrella of Science)",True
+mistral:7b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+mistral:7b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gemma3:12b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,True,True
+gpt-oss:20b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,false,True
+gpt-oss:20b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,false,True
+gpt-oss:20b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,false,True
+gpt-oss:20b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,false,True
+gpt-oss:20b,0,Einstein: The Fantastic Journey of a Mouse Through Space and Time,false,True
+gpt-oss:20b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,False,True
+gpt-oss:20b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,1,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,5,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+gpt-oss:20b,10,Einstein: The Fantastic Journey of a Mouse Through Space and Time,true,True
+llama3.2:1b,0,9780321795465,False,True
+llama3.2:1b,0,9780321795465,False,True
+llama3.2:1b,0,9780321795465,False,True
+llama3.2:1b,0,9780321795465,False,True
+llama3.2:1b,0,9780321795465,False,True
+llama3.2:1b,1,9780321795465,False,True
+llama3.2:1b,1,9780321795465,False,True
+llama3.2:1b,1,9780321795465,True,True
+llama3.2:1b,1,9780321795465,False,True
+llama3.2:1b,1,9780321795465,False,True
+llama3.2:1b,5,9780321795465,"Is ""9780321795465"" STEM? True",True
+llama3.2:1b,5,9780321795465,False,True
+llama3.2:1b,5,9780321795465,False,True
+llama3.2:1b,5,9780321795465,False.,True
+llama3.2:1b,5,9780321795465,True.,True
+llama3.2:1b,10,9780321795465,This book is True.,True
+llama3.2:1b,10,9780321795465,False.,True
+llama3.2:1b,10,9780321795465,True,True
+llama3.2:1b,10,9780321795465,"Here are the classifications:
+
+1. True
+2. False
+3. True
+4. True
+5. True
+6. True",True
+llama3.2:1b,10,9780321795465,Yes.,True
+mistral:7b,0,9780321795465,True,True
+mistral:7b,0,9780321795465,True,True
+mistral:7b,0,9780321795465,True,True
+mistral:7b,0,9780321795465,True,True
+mistral:7b,0,9780321795465,True,True
+mistral:7b,1,9780321795465,True,True
+mistral:7b,1,9780321795465,True,True
+mistral:7b,1,9780321795465,True,True
+mistral:7b,1,9780321795465,True,True
+mistral:7b,1,9780321795465,True,True
+mistral:7b,5,9780321795465,True,True
+mistral:7b,5,9780321795465,True,True
+mistral:7b,5,9780321795465,True,True
+mistral:7b,5,9780321795465,True,True
+mistral:7b,5,9780321795465,True,True
+mistral:7b,10,9780321795465,True,True
+mistral:7b,10,9780321795465,True,True
+mistral:7b,10,9780321795465,True,True
+mistral:7b,10,9780321795465,True,True
+mistral:7b,10,9780321795465,True,True
+gemma3:12b,0,9780321795465,True,True
+gemma3:12b,0,9780321795465,True,True
+gemma3:12b,0,9780321795465,True,True
+gemma3:12b,0,9780321795465,True,True
+gemma3:12b,0,9780321795465,True,True
+gemma3:12b,1,9780321795465,True,True
+gemma3:12b,1,9780321795465,True,True
+gemma3:12b,1,9780321795465,True,True
+gemma3:12b,1,9780321795465,True,True
+gemma3:12b,1,9780321795465,True,True
+gemma3:12b,5,9780321795465,True,True
+gemma3:12b,5,9780321795465,True,True
+gemma3:12b,5,9780321795465,True,True
+gemma3:12b,5,9780321795465,True,True
+gemma3:12b,5,9780321795465,True,True
+gemma3:12b,10,9780321795465,True,True
+gemma3:12b,10,9780321795465,True,True
+gemma3:12b,10,9780321795465,True,True
+gemma3:12b,10,9780321795465,True,True
+gemma3:12b,10,9780321795465,True,True
+gpt-oss:20b,0,9780321795465,true,True
+gpt-oss:20b,0,9780321795465,true,True
+gpt-oss:20b,0,9780321795465,true,True
+gpt-oss:20b,0,9780321795465,true,True
+gpt-oss:20b,0,9780321795465,true,True
+gpt-oss:20b,1,9780321795465,true,True
+gpt-oss:20b,1,9780321795465,true,True
+gpt-oss:20b,1,9780321795465,true,True
+gpt-oss:20b,1,9780321795465,true,True
+gpt-oss:20b,1,9780321795465,true,True
+gpt-oss:20b,5,9780321795465,true,True
+gpt-oss:20b,5,9780321795465,true,True
+gpt-oss:20b,5,9780321795465,true,True
+gpt-oss:20b,5,9780321795465,true,True
+gpt-oss:20b,5,9780321795465,true,True
+gpt-oss:20b,10,9780321795465,true,True
+gpt-oss:20b,10,9780321795465,true,True
+gpt-oss:20b,10,9780321795465,true,True
+gpt-oss:20b,10,9780321795465,true,True
+gpt-oss:20b,10,9780321795465,true,True
+llama3.2:1b,0,The Scarlet Letter,True.,False
+llama3.2:1b,0,The Scarlet Letter,False.,False
+llama3.2:1b,0,The Scarlet Letter,False.,False
+llama3.2:1b,0,The Scarlet Letter,False.,False
+llama3.2:1b,0,The Scarlet Letter,False.,False
+llama3.2:1b,1,The Scarlet Letter,False.,False
+llama3.2:1b,1,The Scarlet Letter,False,False
+llama3.2:1b,1,The Scarlet Letter,False,False
+llama3.2:1b,1,The Scarlet Letter,False,False
+llama3.2:1b,1,The Scarlet Letter,False.,False
+llama3.2:1b,5,The Scarlet Letter,True.,False
+llama3.2:1b,5,The Scarlet Letter,False.,False
+llama3.2:1b,5,The Scarlet Letter,True.,False
+llama3.2:1b,5,The Scarlet Letter,False.,False
+llama3.2:1b,5,The Scarlet Letter,False.,False
+llama3.2:1b,10,The Scarlet Letter,True,False
+llama3.2:1b,10,The Scarlet Letter,True.,False
+llama3.2:1b,10,The Scarlet Letter,True.,False
+llama3.2:1b,10,The Scarlet Letter,True.,False
+llama3.2:1b,10,The Scarlet Letter,True.,False
+mistral:7b,0,The Scarlet Letter,False,False
+mistral:7b,0,The Scarlet Letter,False,False
+mistral:7b,0,The Scarlet Letter,False,False
+mistral:7b,0,The Scarlet Letter,False,False
+mistral:7b,0,The Scarlet Letter,False,False
+mistral:7b,1,The Scarlet Letter,False,False
+mistral:7b,1,The Scarlet Letter,False,False
+mistral:7b,1,The Scarlet Letter,False,False
+mistral:7b,1,The Scarlet Letter,False,False
+mistral:7b,1,The Scarlet Letter,False,False
+mistral:7b,5,The Scarlet Letter,False,False
+mistral:7b,5,The Scarlet Letter,False,False
+mistral:7b,5,The Scarlet Letter,False,False
+mistral:7b,5,The Scarlet Letter,False,False
+mistral:7b,5,The Scarlet Letter,False,False
+mistral:7b,10,The Scarlet Letter,False,False
+mistral:7b,10,The Scarlet Letter,False,False
+mistral:7b,10,The Scarlet Letter,False,False
+mistral:7b,10,The Scarlet Letter,False,False
+mistral:7b,10,The Scarlet Letter,False,False
+gemma3:12b,0,The Scarlet Letter,False,False
+gemma3:12b,0,The Scarlet Letter,False,False
+gemma3:12b,0,The Scarlet Letter,False,False
+gemma3:12b,0,The Scarlet Letter,False,False
+gemma3:12b,0,The Scarlet Letter,False,False
+gemma3:12b,1,The Scarlet Letter,False,False
+gemma3:12b,1,The Scarlet Letter,False,False
+gemma3:12b,1,The Scarlet Letter,False,False
+gemma3:12b,1,The Scarlet Letter,False,False
+gemma3:12b,1,The Scarlet Letter,False,False
+gemma3:12b,5,The Scarlet Letter,False,False
+gemma3:12b,5,The Scarlet Letter,False,False
+gemma3:12b,5,The Scarlet Letter,False,False
+gemma3:12b,5,The Scarlet Letter,False,False
+gemma3:12b,5,The Scarlet Letter,False,False
+gemma3:12b,10,The Scarlet Letter,False,False
+gemma3:12b,10,The Scarlet Letter,False,False
+gemma3:12b,10,The Scarlet Letter,False,False
+gemma3:12b,10,The Scarlet Letter,False,False
+gemma3:12b,10,The Scarlet Letter,False,False
+gpt-oss:20b,0,The Scarlet Letter,false,False
+gpt-oss:20b,0,The Scarlet Letter,false,False
+gpt-oss:20b,0,The Scarlet Letter,false,False
+gpt-oss:20b,0,The Scarlet Letter,false,False
+gpt-oss:20b,0,The Scarlet Letter,false,False
+gpt-oss:20b,1,The Scarlet Letter,false,False
+gpt-oss:20b,1,The Scarlet Letter,false,False
+gpt-oss:20b,1,The Scarlet Letter,false,False
+gpt-oss:20b,1,The Scarlet Letter,false,False
+gpt-oss:20b,1,The Scarlet Letter,false,False
+gpt-oss:20b,5,The Scarlet Letter,false,False
+gpt-oss:20b,5,The Scarlet Letter,false,False
+gpt-oss:20b,5,The Scarlet Letter,false,False
+gpt-oss:20b,5,The Scarlet Letter,false,False
+gpt-oss:20b,5,The Scarlet Letter,false,False
+gpt-oss:20b,10,The Scarlet Letter,false,False
+gpt-oss:20b,10,The Scarlet Letter,false,False
+gpt-oss:20b,10,The Scarlet Letter,false,False
+gpt-oss:20b,10,The Scarlet Letter,False,False
+gpt-oss:20b,10,The Scarlet Letter,False,False
+llama3.2:1b,0,1576854000,False,False
+llama3.2:1b,0,1576854000,False,False
+llama3.2:1b,0,1576854000,False,False
+llama3.2:1b,0,1576854000,False,False
+llama3.2:1b,0,1576854000,False,False
+llama3.2:1b,1,1576854000,False,False
+llama3.2:1b,1,1576854000,False,False
+llama3.2:1b,1,1576854000,False,False
+llama3.2:1b,1,1576854000,False,False
+llama3.2:1b,1,1576854000,False,False
+llama3.2:1b,5,1576854000,False,False
+llama3.2:1b,5,1576854000,False,False
+llama3.2:1b,5,1576854000,False.,False
+llama3.2:1b,5,1576854000,False,False
+llama3.2:1b,5,1576854000,True,False
+llama3.2:1b,10,1576854000,True,False
+llama3.2:1b,10,1576854000,False.,False
+llama3.2:1b,10,1576854000,"False. 
+
+The correct answer should be that the book summary does not mention any science, technology, engineering, or mathematics (STEM) topics.",False
+llama3.2:1b,10,1576854000,False,False
+llama3.2:1b,10,1576854000,False.,False
+mistral:7b,0,1576854000,False,False
+mistral:7b,0,1576854000,"False, this book is not STEM as it focuses on grammar and writing which falls under Humanities rather than Science, Technology, Engineering, or Mathematics (STEM) subjects.",False
+mistral:7b,0,1576854000,False,False
+mistral:7b,0,1576854000,False,False
+mistral:7b,0,1576854000,False,False
+mistral:7b,1,1576854000,True,False
+mistral:7b,1,1576854000,True,False
+mistral:7b,1,1576854000,True,False
+mistral:7b,1,1576854000,True,False
+mistral:7b,1,1576854000,True,False
+mistral:7b,5,1576854000,False,False
+mistral:7b,5,1576854000,False,False
+mistral:7b,5,1576854000,False,False
+mistral:7b,5,1576854000,False,False
+mistral:7b,5,1576854000,False,False
+mistral:7b,10,1576854000,True,False
+mistral:7b,10,1576854000,True,False
+mistral:7b,10,1576854000,True,False
+mistral:7b,10,1576854000,True,False
+mistral:7b,10,1576854000,True,False
+gemma3:12b,0,1576854000,False,False
+gemma3:12b,0,1576854000,False,False
+gemma3:12b,0,1576854000,False,False
+gemma3:12b,0,1576854000,False,False
+gemma3:12b,0,1576854000,false,False
+gemma3:12b,1,1576854000,False,False
+gemma3:12b,1,1576854000,false,False
+gemma3:12b,1,1576854000,false,False
+gemma3:12b,1,1576854000,false,False
+gemma3:12b,1,1576854000,False,False
+gemma3:12b,5,1576854000,False,False
+gemma3:12b,5,1576854000,False,False
+gemma3:12b,5,1576854000,False,False
+gemma3:12b,5,1576854000,False,False
+gemma3:12b,5,1576854000,False,False
+gemma3:12b,10,1576854000,False,False
+gemma3:12b,10,1576854000,False,False
+gemma3:12b,10,1576854000,False,False
+gemma3:12b,10,1576854000,False,False
+gemma3:12b,10,1576854000,False,False
+gpt-oss:20b,0,1576854000,false,False
+gpt-oss:20b,0,1576854000,false,False
+gpt-oss:20b,0,1576854000,false,False
+gpt-oss:20b,0,1576854000,false,False
+gpt-oss:20b,0,1576854000,false,False
+gpt-oss:20b,1,1576854000,false,False
+gpt-oss:20b,1,1576854000,false,False
+gpt-oss:20b,1,1576854000,false,False
+gpt-oss:20b,1,1576854000,false,False
+gpt-oss:20b,1,1576854000,False,False
+gpt-oss:20b,5,1576854000,false,False
+gpt-oss:20b,5,1576854000,false,False
+gpt-oss:20b,5,1576854000,false,False
+gpt-oss:20b,5,1576854000,false,False
+gpt-oss:20b,5,1576854000,false,False
+gpt-oss:20b,10,1576854000,False,False
+gpt-oss:20b,10,1576854000,false,False
+gpt-oss:20b,10,1576854000,false,False
+gpt-oss:20b,10,1576854000,false,False
+gpt-oss:20b,10,1576854000,False,False
+llama3.2:1b,0,978-0-536-21012-8,False,True
+llama3.2:1b,0,978-0-536-21012-8,False,True
+llama3.2:1b,0,978-0-536-21012-8,False,True
+llama3.2:1b,0,978-0-536-21012-8,False.,True
+llama3.2:1b,0,978-0-536-21012-8,False,True
+llama3.2:1b,1,978-0-536-21012-8,True,True
+llama3.2:1b,1,978-0-536-21012-8,True,True
+llama3.2:1b,1,978-0-536-21012-8,False,True
+llama3.2:1b,1,978-0-536-21012-8,False,True
+llama3.2:1b,1,978-0-536-21012-8,False,True
+llama3.2:1b,5,978-0-536-21012-8,False,True
+llama3.2:1b,5,978-0-536-21012-8,True,True
+llama3.2:1b,5,978-0-536-21012-8,True,True
+llama3.2:1b,5,978-0-536-21012-8,False,True
+llama3.2:1b,5,978-0-536-21012-8,False,True
+llama3.2:1b,10,978-0-536-21012-8,"True, False, True, False.",True
+llama3.2:1b,10,978-0-536-21012-8,Yes.,True
+llama3.2:1b,10,978-0-536-21012-8,False,True
+llama3.2:1b,10,978-0-536-21012-8,False.,True
+llama3.2:1b,10,978-0-536-21012-8,True,True
+mistral:7b,0,978-0-536-21012-8,True,True
+mistral:7b,0,978-0-536-21012-8,True,True
+mistral:7b,0,978-0-536-21012-8,True,True
+mistral:7b,0,978-0-536-21012-8,True,True
+mistral:7b,0,978-0-536-21012-8,True,True
+mistral:7b,1,978-0-536-21012-8,True,True
+mistral:7b,1,978-0-536-21012-8,True,True
+mistral:7b,1,978-0-536-21012-8,True,True
+mistral:7b,1,978-0-536-21012-8,True,True
+mistral:7b,1,978-0-536-21012-8,True,True
+mistral:7b,5,978-0-536-21012-8,True,True
+mistral:7b,5,978-0-536-21012-8,True,True
+mistral:7b,5,978-0-536-21012-8,True,True
+mistral:7b,5,978-0-536-21012-8,True,True
+mistral:7b,5,978-0-536-21012-8,True,True
+mistral:7b,10,978-0-536-21012-8,True,True
+mistral:7b,10,978-0-536-21012-8,True,True
+mistral:7b,10,978-0-536-21012-8,True,True
+mistral:7b,10,978-0-536-21012-8,True,True
+mistral:7b,10,978-0-536-21012-8,True,True
+gemma3:12b,0,978-0-536-21012-8,True,True
+gemma3:12b,0,978-0-536-21012-8,True,True
+gemma3:12b,0,978-0-536-21012-8,True,True
+gemma3:12b,0,978-0-536-21012-8,True,True
+gemma3:12b,0,978-0-536-21012-8,True,True
+gemma3:12b,1,978-0-536-21012-8,True,True
+gemma3:12b,1,978-0-536-21012-8,True,True
+gemma3:12b,1,978-0-536-21012-8,True,True
+gemma3:12b,1,978-0-536-21012-8,True,True
+gemma3:12b,1,978-0-536-21012-8,True,True
+gemma3:12b,5,978-0-536-21012-8,True,True
+gemma3:12b,5,978-0-536-21012-8,True,True
+gemma3:12b,5,978-0-536-21012-8,True,True
+gemma3:12b,5,978-0-536-21012-8,True,True
+gemma3:12b,5,978-0-536-21012-8,True,True
+gemma3:12b,10,978-0-536-21012-8,True,True
+gemma3:12b,10,978-0-536-21012-8,True,True
+gemma3:12b,10,978-0-536-21012-8,True,True
+gemma3:12b,10,978-0-536-21012-8,True,True
+gemma3:12b,10,978-0-536-21012-8,True,True
+gpt-oss:20b,0,978-0-536-21012-8,true,True
+gpt-oss:20b,0,978-0-536-21012-8,true,True
+gpt-oss:20b,0,978-0-536-21012-8,true,True
+gpt-oss:20b,0,978-0-536-21012-8,true,True
+gpt-oss:20b,0,978-0-536-21012-8,true,True
+gpt-oss:20b,1,978-0-536-21012-8,true,True
+gpt-oss:20b,1,978-0-536-21012-8,true,True
+gpt-oss:20b,1,978-0-536-21012-8,true,True
+gpt-oss:20b,1,978-0-536-21012-8,true,True
+gpt-oss:20b,1,978-0-536-21012-8,true,True
+gpt-oss:20b,5,978-0-536-21012-8,true,True
+gpt-oss:20b,5,978-0-536-21012-8,true,True
+gpt-oss:20b,5,978-0-536-21012-8,true,True
+gpt-oss:20b,5,978-0-536-21012-8,true,True
+gpt-oss:20b,5,978-0-536-21012-8,true,True
+gpt-oss:20b,10,978-0-536-21012-8,True,True
+gpt-oss:20b,10,978-0-536-21012-8,true,True
+gpt-oss:20b,10,978-0-536-21012-8,True,True
+gpt-oss:20b,10,978-0-536-21012-8,true,True
+gpt-oss:20b,10,978-0-536-21012-8,True,True
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False.,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",True,False
+llama3.2:1b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+mistral:7b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gemma3:12b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,0,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,1,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,5,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",False,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+gpt-oss:20b,10,"Tuesdays with Morrie: An Old Man, a Young Man and Life's Greatest Lesson",false,False
+llama3.2:1b,0,0-02-823102-3,False.,False
+llama3.2:1b,0,0-02-823102-3,False.,False
+llama3.2:1b,0,0-02-823102-3,False.,False
+llama3.2:1b,0,0-02-823102-3,False.,False
+llama3.2:1b,0,0-02-823102-3,False.,False
+llama3.2:1b,1,0-02-823102-3,False,False
+llama3.2:1b,1,0-02-823102-3,False,False
+llama3.2:1b,1,0-02-823102-3,False,False
+llama3.2:1b,1,0-02-823102-3,False,False
+llama3.2:1b,1,0-02-823102-3,False,False
+llama3.2:1b,5,0-02-823102-3,False.,False
+llama3.2:1b,5,0-02-823102-3,False.,False
+llama3.2:1b,5,0-02-823102-3,True.,False
+llama3.2:1b,5,0-02-823102-3,The answer is False.,False
+llama3.2:1b,5,0-02-823102-3,True.,False
+llama3.2:1b,10,0-02-823102-3,True.,False
+llama3.2:1b,10,0-02-823102-3,False.,False
+llama3.2:1b,10,0-02-823102-3,False.,False
+llama3.2:1b,10,0-02-823102-3,False.,False
+llama3.2:1b,10,0-02-823102-3,False.,False
+mistral:7b,0,0-02-823102-3,False,False
+mistral:7b,0,0-02-823102-3,False,False
+mistral:7b,0,0-02-823102-3,False,False
+mistral:7b,0,0-02-823102-3,"False. The book does not appear to be a STEM (Science, Technology, Engineering, Mathematics) book. It pertains more to Economics, which falls under Social Sciences.",False
+mistral:7b,0,0-02-823102-3,False,False
+mistral:7b,1,0-02-823102-3,True,False
+mistral:7b,1,0-02-823102-3,True,False
+mistral:7b,1,0-02-823102-3,True,False
+mistral:7b,1,0-02-823102-3,True,False
+mistral:7b,1,0-02-823102-3,True,False
+mistral:7b,5,0-02-823102-3,True,False
+mistral:7b,5,0-02-823102-3,True,False
+mistral:7b,5,0-02-823102-3,True,False
+mistral:7b,5,0-02-823102-3,True,False
+mistral:7b,5,0-02-823102-3,True,False
+mistral:7b,10,0-02-823102-3,True,False
+mistral:7b,10,0-02-823102-3,True,False
+mistral:7b,10,0-02-823102-3,True,False
+mistral:7b,10,0-02-823102-3,True,False
+mistral:7b,10,0-02-823102-3,True,False
+gemma3:12b,0,0-02-823102-3,True,False
+gemma3:12b,0,0-02-823102-3,True,False
+gemma3:12b,0,0-02-823102-3,True,False
+gemma3:12b,0,0-02-823102-3,True,False
+gemma3:12b,0,0-02-823102-3,True,False
+gemma3:12b,1,0-02-823102-3,True,False
+gemma3:12b,1,0-02-823102-3,True,False
+gemma3:12b,1,0-02-823102-3,True,False
+gemma3:12b,1,0-02-823102-3,True,False
+gemma3:12b,1,0-02-823102-3,True,False
+gemma3:12b,5,0-02-823102-3,True,False
+gemma3:12b,5,0-02-823102-3,True,False
+gemma3:12b,5,0-02-823102-3,True,False
+gemma3:12b,5,0-02-823102-3,True,False
+gemma3:12b,5,0-02-823102-3,True,False
+gemma3:12b,10,0-02-823102-3,True,False
+gemma3:12b,10,0-02-823102-3,True,False
+gemma3:12b,10,0-02-823102-3,True,False
+gemma3:12b,10,0-02-823102-3,True,False
+gemma3:12b,10,0-02-823102-3,True,False
+gpt-oss:20b,0,0-02-823102-3,false,False
+gpt-oss:20b,0,0-02-823102-3,false,False
+gpt-oss:20b,0,0-02-823102-3,false,False
+gpt-oss:20b,0,0-02-823102-3,false,False
+gpt-oss:20b,0,0-02-823102-3,false,False
+gpt-oss:20b,1,0-02-823102-3,false,False
+gpt-oss:20b,1,0-02-823102-3,false,False
+gpt-oss:20b,1,0-02-823102-3,false,False
+gpt-oss:20b,1,0-02-823102-3,false,False
+gpt-oss:20b,1,0-02-823102-3,false,False
+gpt-oss:20b,5,0-02-823102-3,false,False
+gpt-oss:20b,5,0-02-823102-3,false,False
+gpt-oss:20b,5,0-02-823102-3,false,False
+gpt-oss:20b,5,0-02-823102-3,false,False
+gpt-oss:20b,5,0-02-823102-3,false,False
+gpt-oss:20b,10,0-02-823102-3,false,False
+gpt-oss:20b,10,0-02-823102-3,false,False
+gpt-oss:20b,10,0-02-823102-3,false,False
+gpt-oss:20b,10,0-02-823102-3,false,False
+gpt-oss:20b,10,0-02-823102-3,false,False
+llama3.2:1b,0,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,0,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,0,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,0,From Here to There: Inventions That Changed the Way the World Moves,False.,True
+llama3.2:1b,0,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,1,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,1,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,1,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,1,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,1,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,5,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,5,From Here to There: Inventions That Changed the Way the World Moves,"This book ""From Here to There: Inventions That Changed the Way the World Moves"" is FALSE.",True
+llama3.2:1b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+llama3.2:1b,5,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,5,From Here to There: Inventions That Changed the Way the World Moves,False,True
+llama3.2:1b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+llama3.2:1b,10,From Here to There: Inventions That Changed the Way the World Moves,Yes.,True
+llama3.2:1b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+llama3.2:1b,10,From Here to There: Inventions That Changed the Way the World Moves,"Here are the classifications:
+
+1. True
+2. False
+3. True
+4. True
+5. False
+6. True
+7. True",True
+llama3.2:1b,10,From Here to There: Inventions That Changed the Way the World Moves,"Here's my response:
+
+False.",True
+mistral:7b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+mistral:7b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,0,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,1,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,5,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gemma3:12b,10,From Here to There: Inventions That Changed the Way the World Moves,True,True
+gpt-oss:20b,0,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,0,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,0,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,0,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,0,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,1,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,1,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,1,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,1,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,1,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,5,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,5,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,5,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,5,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,5,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,10,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,10,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,10,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,10,From Here to There: Inventions That Changed the Way the World Moves,true,True
+gpt-oss:20b,10,From Here to There: Inventions That Changed the Way the World Moves,true,True
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False.,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,0,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",True,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,1,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",True,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",False.,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,5,"The Message (Animorphs, #4)",True,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False
+llama3.2:1b,10,"The Message (Animorphs, #4)",False,False
+mistral:7b,0,"The Message (Animorphs, #4)","False, ""The Message (Animorphs, #4)"" is not a STEM book. It primarily focuses on science fiction and fantasy genres, rather than Science, Technology, Engineering, or Mathematics.",False
+mistral:7b,0,"The Message (Animorphs, #4)","False. ""The Message (Animorphs, #4)"" is not a STEM book as it primarily focuses on science fiction and fantasy themes rather than Science, Technology, Engineering, or Mathematics.",False
+mistral:7b,0,"The Message (Animorphs, #4)",False,False
+mistral:7b,0,"The Message (Animorphs, #4)",False,False
+mistral:7b,0,"The Message (Animorphs, #4)",False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False
+mistral:7b,1,"The Message (Animorphs, #4)",False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False
+mistral:7b,5,"The Message (Animorphs, #4)",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False
+mistral:7b,10,"The Message (Animorphs, #4)",False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False
+gemma3:12b,0,"The Message (Animorphs, #4)",False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False
+gemma3:12b,1,"The Message (Animorphs, #4)",False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False
+gemma3:12b,5,"The Message (Animorphs, #4)",False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False
+gemma3:12b,10,"The Message (Animorphs, #4)",False,False
+gpt-oss:20b,0,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,0,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,0,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,0,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,0,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,1,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,1,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,1,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,1,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,1,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,5,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,5,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,5,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,5,"The Message (Animorphs, #4)",true,False
+gpt-oss:20b,5,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,10,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,10,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,10,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,10,"The Message (Animorphs, #4)",false,False
+gpt-oss:20b,10,"The Message (Animorphs, #4)",true,False
+llama3.2:1b,0,0-86709-447-8,False.,False
+llama3.2:1b,0,0-86709-447-8,True.,False
+llama3.2:1b,0,0-86709-447-8,False,False
+llama3.2:1b,0,0-86709-447-8,False.,False
+llama3.2:1b,0,0-86709-447-8,False.,False
+llama3.2:1b,1,0-86709-447-8,False,False
+llama3.2:1b,1,0-86709-447-8,False.,False
+llama3.2:1b,1,0-86709-447-8,False,False
+llama3.2:1b,1,0-86709-447-8,True,False
+llama3.2:1b,1,0-86709-447-8,True,False
+llama3.2:1b,5,0-86709-447-8,False.,False
+llama3.2:1b,5,0-86709-447-8,False.,False
+llama3.2:1b,5,0-86709-447-8,False.,False
+llama3.2:1b,5,0-86709-447-8,False.,False
+llama3.2:1b,5,0-86709-447-8,True,False
+llama3.2:1b,10,0-86709-447-8,False.,False
+llama3.2:1b,10,0-86709-447-8,True.,False
+llama3.2:1b,10,0-86709-447-8,Answer: False,False
+llama3.2:1b,10,0-86709-447-8,True.,False
+llama3.2:1b,10,0-86709-447-8,True,False
+mistral:7b,0,0-86709-447-8,False,False
+mistral:7b,0,0-86709-447-8,False,False
+mistral:7b,0,0-86709-447-8,"False, this book is not STEM as it focuses on English language composition rather than Science, Technology, Engineering, or Mathematics subjects.",False
+mistral:7b,0,0-86709-447-8,False,False
+mistral:7b,0,0-86709-447-8,False,False
+mistral:7b,1,0-86709-447-8,True,False
+mistral:7b,1,0-86709-447-8,True,False
+mistral:7b,1,0-86709-447-8,True,False
+mistral:7b,1,0-86709-447-8,True,False
+mistral:7b,1,0-86709-447-8,True,False
+mistral:7b,5,0-86709-447-8,False,False
+mistral:7b,5,0-86709-447-8,False,False
+mistral:7b,5,0-86709-447-8,False,False
+mistral:7b,5,0-86709-447-8,False,False
+mistral:7b,5,0-86709-447-8,False,False
+mistral:7b,10,0-86709-447-8,True,False
+mistral:7b,10,0-86709-447-8,True,False
+mistral:7b,10,0-86709-447-8,True,False
+mistral:7b,10,0-86709-447-8,True,False
+mistral:7b,10,0-86709-447-8,True,False
+gemma3:12b,0,0-86709-447-8,False,False
+gemma3:12b,0,0-86709-447-8,False,False
+gemma3:12b,0,0-86709-447-8,False,False
+gemma3:12b,0,0-86709-447-8,False,False
+gemma3:12b,0,0-86709-447-8,False,False
+gemma3:12b,1,0-86709-447-8,False,False
+gemma3:12b,1,0-86709-447-8,False,False
+gemma3:12b,1,0-86709-447-8,False,False
+gemma3:12b,1,0-86709-447-8,False,False
+gemma3:12b,1,0-86709-447-8,False,False
+gemma3:12b,5,0-86709-447-8,False,False
+gemma3:12b,5,0-86709-447-8,False,False
+gemma3:12b,5,0-86709-447-8,False,False
+gemma3:12b,5,0-86709-447-8,False,False
+gemma3:12b,5,0-86709-447-8,False,False
+gemma3:12b,10,0-86709-447-8,False,False
+gemma3:12b,10,0-86709-447-8,False,False
+gemma3:12b,10,0-86709-447-8,False,False
+gemma3:12b,10,0-86709-447-8,False,False
+gemma3:12b,10,0-86709-447-8,False,False
+gpt-oss:20b,0,0-86709-447-8,false,False
+gpt-oss:20b,0,0-86709-447-8,false,False
+gpt-oss:20b,0,0-86709-447-8,false,False
+gpt-oss:20b,0,0-86709-447-8,false,False
+gpt-oss:20b,0,0-86709-447-8,false,False
+gpt-oss:20b,1,0-86709-447-8,false,False
+gpt-oss:20b,1,0-86709-447-8,false,False
+gpt-oss:20b,1,0-86709-447-8,false,False
+gpt-oss:20b,1,0-86709-447-8,false,False
+gpt-oss:20b,1,0-86709-447-8,false,False
+gpt-oss:20b,5,0-86709-447-8,false,False
+gpt-oss:20b,5,0-86709-447-8,true,False
+gpt-oss:20b,5,0-86709-447-8,false,False
+gpt-oss:20b,5,0-86709-447-8,false,False
+gpt-oss:20b,5,0-86709-447-8,true,False
+gpt-oss:20b,10,0-86709-447-8,false,False
+gpt-oss:20b,10,0-86709-447-8,false,False
+gpt-oss:20b,10,0-86709-447-8,false,False
+gpt-oss:20b,10,0-86709-447-8,false,False
+gpt-oss:20b,10,0-86709-447-8,false,False
+llama3.2:1b,0,Mission to the Bottom of the Sea,False.,True
+llama3.2:1b,0,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,0,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,0,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,0,Mission to the Bottom of the Sea,False.,True
+llama3.2:1b,1,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,1,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,1,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,1,Mission to the Bottom of the Sea,False.,True
+llama3.2:1b,1,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,5,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,5,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,5,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,5,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,5,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,10,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,10,Mission to the Bottom of the Sea,False,True
+llama3.2:1b,10,Mission to the Bottom of the Sea,False.,True
+llama3.2:1b,10,Mission to the Bottom of the Sea,True,True
+llama3.2:1b,10,Mission to the Bottom of the Sea,False.,True
+mistral:7b,0,Mission to the Bottom of the Sea,True,True
+mistral:7b,0,Mission to the Bottom of the Sea,True,True
+mistral:7b,0,Mission to the Bottom of the Sea,True,True
+mistral:7b,0,Mission to the Bottom of the Sea,True,True
+mistral:7b,0,Mission to the Bottom of the Sea,True,True
+mistral:7b,1,Mission to the Bottom of the Sea,True,True
+mistral:7b,1,Mission to the Bottom of the Sea,True,True
+mistral:7b,1,Mission to the Bottom of the Sea,True,True
+mistral:7b,1,Mission to the Bottom of the Sea,True,True
+mistral:7b,1,Mission to the Bottom of the Sea,True,True
+mistral:7b,5,Mission to the Bottom of the Sea,True,True
+mistral:7b,5,Mission to the Bottom of the Sea,True,True
+mistral:7b,5,Mission to the Bottom of the Sea,True,True
+mistral:7b,5,Mission to the Bottom of the Sea,True,True
+mistral:7b,5,Mission to the Bottom of the Sea,True,True
+mistral:7b,10,Mission to the Bottom of the Sea,True,True
+mistral:7b,10,Mission to the Bottom of the Sea,True,True
+mistral:7b,10,Mission to the Bottom of the Sea,True,True
+mistral:7b,10,Mission to the Bottom of the Sea,True,True
+mistral:7b,10,Mission to the Bottom of the Sea,True,True
+gemma3:12b,0,Mission to the Bottom of the Sea,True,True
+gemma3:12b,0,Mission to the Bottom of the Sea,True,True
+gemma3:12b,0,Mission to the Bottom of the Sea,True,True
+gemma3:12b,0,Mission to the Bottom of the Sea,True,True
+gemma3:12b,0,Mission to the Bottom of the Sea,True,True
+gemma3:12b,1,Mission to the Bottom of the Sea,True,True
+gemma3:12b,1,Mission to the Bottom of the Sea,True,True
+gemma3:12b,1,Mission to the Bottom of the Sea,True,True
+gemma3:12b,1,Mission to the Bottom of the Sea,True,True
+gemma3:12b,1,Mission to the Bottom of the Sea,True,True
+gemma3:12b,5,Mission to the Bottom of the Sea,True,True
+gemma3:12b,5,Mission to the Bottom of the Sea,True,True
+gemma3:12b,5,Mission to the Bottom of the Sea,True,True
+gemma3:12b,5,Mission to the Bottom of the Sea,True,True
+gemma3:12b,5,Mission to the Bottom of the Sea,True,True
+gemma3:12b,10,Mission to the Bottom of the Sea,True,True
+gemma3:12b,10,Mission to the Bottom of the Sea,True,True
+gemma3:12b,10,Mission to the Bottom of the Sea,True,True
+gemma3:12b,10,Mission to the Bottom of the Sea,True,True
+gemma3:12b,10,Mission to the Bottom of the Sea,True,True
+gpt-oss:20b,0,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,0,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,0,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,0,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,0,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,1,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,1,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,1,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,1,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,1,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,5,Mission to the Bottom of the Sea,True,True
+gpt-oss:20b,5,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,5,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,5,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,5,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,10,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,10,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,10,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,10,Mission to the Bottom of the Sea,true,True
+gpt-oss:20b,10,Mission to the Bottom of the Sea,True,True

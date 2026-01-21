@@ -1,0 +1,901 @@
+model,shots,book,answer,ground_truth_stem,answer_clean
+llama3.2:1b,0,9780321795465,False,True,False
+llama3.2:1b,0,9780321795465,False,True,False
+llama3.2:1b,0,9780321795465,False,True,False
+llama3.2:1b,0,9780321795465,False,True,False
+llama3.2:1b,0,9780321795465,False,True,False
+llama3.2:1b,1,9780321795465,False,True,False
+llama3.2:1b,1,9780321795465,False,True,False
+llama3.2:1b,1,9780321795465,False,True,False
+llama3.2:1b,1,9780321795465,False,True,False
+llama3.2:1b,1,9780321795465,False,True,False
+llama3.2:1b,5,9780321795465,True,True,True
+llama3.2:1b,5,9780321795465,False.,True,False
+llama3.2:1b,5,9780321795465,False,True,False
+llama3.2:1b,5,9780321795465,True,True,True
+llama3.2:1b,5,9780321795465,False.,True,False
+llama3.2:1b,10,9780321795465,False,True,False
+llama3.2:1b,10,9780321795465,False,True,False
+llama3.2:1b,10,9780321795465,False,True,False
+llama3.2:1b,10,9780321795465,False,True,False
+llama3.2:1b,10,9780321795465,False,True,False
+mistral:7b,0,9780321795465,True,True,True
+mistral:7b,0,9780321795465,True,True,True
+mistral:7b,0,9780321795465,True,True,True
+mistral:7b,0,9780321795465,True,True,True
+mistral:7b,0,9780321795465,True,True,True
+mistral:7b,1,9780321795465,True,True,True
+mistral:7b,1,9780321795465,True,True,True
+mistral:7b,1,9780321795465,True,True,True
+mistral:7b,1,9780321795465,True,True,True
+mistral:7b,1,9780321795465,True,True,True
+mistral:7b,5,9780321795465,True,True,True
+mistral:7b,5,9780321795465,True,True,True
+mistral:7b,5,9780321795465,True,True,True
+mistral:7b,5,9780321795465,True,True,True
+mistral:7b,5,9780321795465,True,True,True
+mistral:7b,10,9780321795465,True,True,True
+mistral:7b,10,9780321795465,True,True,True
+mistral:7b,10,9780321795465,True,True,True
+mistral:7b,10,9780321795465,True,True,True
+mistral:7b,10,9780321795465,True,True,True
+gemma3:12b,0,9780321795465,True,True,True
+gemma3:12b,0,9780321795465,True,True,True
+gemma3:12b,0,9780321795465,True,True,True
+gemma3:12b,0,9780321795465,True,True,True
+gemma3:12b,0,9780321795465,True,True,True
+gemma3:12b,1,9780321795465,True,True,True
+gemma3:12b,1,9780321795465,True,True,True
+gemma3:12b,1,9780321795465,True,True,True
+gemma3:12b,1,9780321795465,True,True,True
+gemma3:12b,1,9780321795465,True,True,True
+gemma3:12b,5,9780321795465,True,True,True
+gemma3:12b,5,9780321795465,True,True,True
+gemma3:12b,5,9780321795465,True,True,True
+gemma3:12b,5,9780321795465,True,True,True
+gemma3:12b,5,9780321795465,True,True,True
+gemma3:12b,10,9780321795465,True,True,True
+gemma3:12b,10,9780321795465,True,True,True
+gemma3:12b,10,9780321795465,True,True,True
+gemma3:12b,10,9780321795465,True,True,True
+gemma3:12b,10,9780321795465,True,True,True
+llama3.2:1b,0,Bagombo Snuff Box,True.,False,True
+llama3.2:1b,0,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,0,Bagombo Snuff Box,False,False,False
+llama3.2:1b,0,Bagombo Snuff Box,False,False,False
+llama3.2:1b,0,Bagombo Snuff Box,False,False,False
+llama3.2:1b,1,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,1,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,1,Bagombo Snuff Box,True,False,True
+llama3.2:1b,1,Bagombo Snuff Box,False,False,False
+llama3.2:1b,1,Bagombo Snuff Box,True.,False,True
+llama3.2:1b,5,Bagombo Snuff Box,True.,False,True
+llama3.2:1b,5,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,5,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,5,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,5,Bagombo Snuff Box,True,False,True
+llama3.2:1b,10,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,10,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,10,Bagombo Snuff Box,True,False,True
+llama3.2:1b,10,Bagombo Snuff Box,False.,False,False
+llama3.2:1b,10,Bagombo Snuff Box,False.,False,False
+mistral:7b,0,Bagombo Snuff Box,"False, ""Bagombo Snuff Box"" is not a STEM book. It's a collection of short stories by Kurt Vonnegut Jr., focusing on literature and humanities rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,0,Bagombo Snuff Box,False,False,False
+mistral:7b,0,Bagombo Snuff Box,False,False,False
+mistral:7b,0,Bagombo Snuff Box,False,False,False
+mistral:7b,0,Bagombo Snuff Box,"False, the ""Bagombo Snuff Box"" is not a STEM book as it falls under the category of literature and specifically fiction writing by Kurt Vonnegut.",False,False
+mistral:7b,1,Bagombo Snuff Box,False,False,False
+mistral:7b,1,Bagombo Snuff Box,False,False,False
+mistral:7b,1,Bagombo Snuff Box,False,False,False
+mistral:7b,1,Bagombo Snuff Box,False,False,False
+mistral:7b,1,Bagombo Snuff Box,False,False,False
+mistral:7b,5,Bagombo Snuff Box,False,False,False
+mistral:7b,5,Bagombo Snuff Box,False,False,False
+mistral:7b,5,Bagombo Snuff Box,False,False,False
+mistral:7b,5,Bagombo Snuff Box,False,False,False
+mistral:7b,5,Bagombo Snuff Box,False,False,False
+mistral:7b,10,Bagombo Snuff Box,False,False,False
+mistral:7b,10,Bagombo Snuff Box,"False, ""Bagombo Snuff Box"" is not a STEM book. It's a collection of short stories written by Kurt Vonnegut that primarily focuses on literature and humanities rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,10,Bagombo Snuff Box,"False, ""Bagombo Snuff Box"" is not a STEM book. It's a collection of short stories by Kurt Vonnegut that primarily focus on human relationships, philosophy, and humor, rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,10,Bagombo Snuff Box,"False, this book ""Bagombo Snuff Box"" is not categorized as STEM (Science, Technology, Engineering, Mathematics). The book is a collection of short stories written by Kurt Vonnegut and primarily deals with human emotions, societal issues, and fictional narratives, rather than scientific, technological, engineering, or mathematical concepts.",False,False
+mistral:7b,10,Bagombo Snuff Box,"False, ""Bagombo Snuff Box"" is not a STEM book as it falls under the category of literature.",False,False
+gemma3:12b,0,Bagombo Snuff Box,False,False,False
+gemma3:12b,0,Bagombo Snuff Box,False,False,False
+gemma3:12b,0,Bagombo Snuff Box,False,False,False
+gemma3:12b,0,Bagombo Snuff Box,False,False,False
+gemma3:12b,0,Bagombo Snuff Box,False,False,False
+gemma3:12b,1,Bagombo Snuff Box,False,False,False
+gemma3:12b,1,Bagombo Snuff Box,False,False,False
+gemma3:12b,1,Bagombo Snuff Box,False,False,False
+gemma3:12b,1,Bagombo Snuff Box,False,False,False
+gemma3:12b,1,Bagombo Snuff Box,False,False,False
+gemma3:12b,5,Bagombo Snuff Box,False,False,False
+gemma3:12b,5,Bagombo Snuff Box,False,False,False
+gemma3:12b,5,Bagombo Snuff Box,False,False,False
+gemma3:12b,5,Bagombo Snuff Box,False,False,False
+gemma3:12b,5,Bagombo Snuff Box,False,False,False
+gemma3:12b,10,Bagombo Snuff Box,False,False,False
+gemma3:12b,10,Bagombo Snuff Box,False,False,False
+gemma3:12b,10,Bagombo Snuff Box,False,False,False
+gemma3:12b,10,Bagombo Snuff Box,False,False,False
+gemma3:12b,10,Bagombo Snuff Box,False,False,False
+llama3.2:1b,0,9780078807800,True.,False,True
+llama3.2:1b,0,9780078807800,False.,False,False
+llama3.2:1b,0,9780078807800,False.,False,False
+llama3.2:1b,0,9780078807800,False.,False,False
+llama3.2:1b,0,9780078807800,False,False,False
+llama3.2:1b,1,9780078807800,False,False,False
+llama3.2:1b,1,9780078807800,False,False,False
+llama3.2:1b,1,9780078807800,False,False,False
+llama3.2:1b,1,9780078807800,False,False,False
+llama3.2:1b,1,9780078807800,False.,False,False
+llama3.2:1b,5,9780078807800,True,False,True
+llama3.2:1b,5,9780078807800,False.,False,False
+llama3.2:1b,5,9780078807800,False.,False,False
+llama3.2:1b,5,9780078807800,False,False,False
+llama3.2:1b,5,9780078807800,False.,False,False
+llama3.2:1b,10,9780078807800,False.,False,False
+llama3.2:1b,10,9780078807800,False.,False,False
+llama3.2:1b,10,9780078807800,False.,False,False
+llama3.2:1b,10,9780078807800,False.,False,False
+llama3.2:1b,10,9780078807800,True.,False,True
+mistral:7b,0,9780078807800,"False, this book is not STEM (Science, Technology, Engineering, Mathematics). It's about speech and communication, which falls under the Humanities category.",False,False
+mistral:7b,0,9780078807800,False,False,False
+mistral:7b,0,9780078807800,"False, this book is not STEM (Science, Technology, Engineering, Mathematics). It focuses on speech and communication skills, which falls under the humanities category rather than STEM.",False,False
+mistral:7b,0,9780078807800,False,False,False
+mistral:7b,0,9780078807800,"False, this book is not STEM. It focuses on speech and communication skills, which falls under Humanities rather than Science, Technology, Engineering, or Mathematics (STEM).",False,False
+mistral:7b,1,9780078807800,True,False,True
+mistral:7b,1,9780078807800,True,False,True
+mistral:7b,1,9780078807800,True,False,True
+mistral:7b,1,9780078807800,True,False,True
+mistral:7b,1,9780078807800,True,False,True
+mistral:7b,5,9780078807800,True,False,True
+mistral:7b,5,9780078807800,True,False,True
+mistral:7b,5,9780078807800,True,False,True
+mistral:7b,5,9780078807800,True,False,True
+mistral:7b,5,9780078807800,True,False,True
+mistral:7b,10,9780078807800,"False, this book is not STEM. It focuses on speech and communication skills which fall under Humanities rather than Science, Technology, Engineering, or Mathematics (STEM).",False,False
+mistral:7b,10,9780078807800,"False, this book is not STEM as it focuses on speech and communication skills, which falls under Humanities rather than Science, Technology, Engineering, or Mathematics (STEM).",False,False
+mistral:7b,10,9780078807800,False,False,False
+mistral:7b,10,9780078807800,"False, this book is not STEM as it focuses on speech and communication skills, which fall under humanities rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,10,9780078807800,False,False,False
+gemma3:12b,0,9780078807800,False,False,False
+gemma3:12b,0,9780078807800,False,False,False
+gemma3:12b,0,9780078807800,False,False,False
+gemma3:12b,0,9780078807800,False,False,False
+gemma3:12b,0,9780078807800,False,False,False
+gemma3:12b,1,9780078807800,False,False,False
+gemma3:12b,1,9780078807800,True,False,True
+gemma3:12b,1,9780078807800,True,False,True
+gemma3:12b,1,9780078807800,False,False,False
+gemma3:12b,1,9780078807800,True,False,True
+gemma3:12b,5,9780078807800,False,False,False
+gemma3:12b,5,9780078807800,False,False,False
+gemma3:12b,5,9780078807800,False,False,False
+gemma3:12b,5,9780078807800,False,False,False
+gemma3:12b,5,9780078807800,False,False,False
+gemma3:12b,10,9780078807800,False,False,False
+gemma3:12b,10,9780078807800,False,False,False
+gemma3:12b,10,9780078807800,False,False,False
+gemma3:12b,10,9780078807800,False,False,False
+gemma3:12b,10,9780078807800,False,False,False
+llama3.2:1b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True.,True,True
+llama3.2:1b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+llama3.2:1b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+llama3.2:1b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+llama3.2:1b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+llama3.2:1b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False.,True,False
+mistral:7b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False. The book ""Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession"" is not a STEM (Science, Technology, Engineering, Mathematics) book, as it primarily focuses on the biography of an inventor and does not predominantly discuss scientific or technical concepts. However, it does involve technology and engineering to some extent due to its subject matter being video gaming, but it is more of a history/biography book than STEM.",True,False
+mistral:7b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False. The book ""Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession"" primarily focuses on history, biography, and technology related to video gaming, rather than Science, Technology, Engineering, or Mathematics (STEM) fields specifically.",True,False
+mistral:7b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+mistral:7b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False. The book does not appear to be focused on Science, Technology, Engineering, or Mathematics (STEM) subjects as it is a biography about a pioneer in the field of television video gaming and his personal story, rather than delving deeply into the technical aspects or scientific principles involved in the invention.",True,False
+mistral:7b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False, this book primarily focuses on a historical figure and his achievements in the field of electronics engineering and technology related to video gaming rather than Science, Technology, Engineering, and Mathematics (STEM) specifically.",True,False
+mistral:7b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+mistral:7b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+mistral:7b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+mistral:7b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False. This book is primarily about history and biography, not Science, Technology, Engineering, or Mathematics (STEM).",True,False
+mistral:7b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,"False. The book ""Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession"" is not classified as a STEM book, since it focuses on the biography of an inventor in the field of video gaming rather than Science, Technology, Engineering, or Mathematics.",True,False
+mistral:7b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,False,True,False
+gemma3:12b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,0,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,1,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,5,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+gemma3:12b,10,Blips on a Screen: How Ralph Baer Invented TV Video Gaming and Launched a Worldwide Obsession,True,True,True
+llama3.2:1b,0,9780078799822,False.,False,False
+llama3.2:1b,0,9780078799822,False.,False,False
+llama3.2:1b,0,9780078799822,False.,False,False
+llama3.2:1b,0,9780078799822,False.,False,False
+llama3.2:1b,0,9780078799822,False.,False,False
+llama3.2:1b,1,9780078799822,False,False,False
+llama3.2:1b,1,9780078799822,False.,False,False
+llama3.2:1b,1,9780078799822,False.,False,False
+llama3.2:1b,1,9780078799822,True,False,True
+llama3.2:1b,1,9780078799822,False,False,False
+llama3.2:1b,5,9780078799822,False.,False,False
+llama3.2:1b,5,9780078799822,False.,False,False
+llama3.2:1b,5,9780078799822,True.,False,True
+llama3.2:1b,5,9780078799822,True.,False,True
+llama3.2:1b,5,9780078799822,False,False,False
+llama3.2:1b,10,9780078799822,False.,False,False
+llama3.2:1b,10,9780078799822,False.,False,False
+llama3.2:1b,10,9780078799822,False.,False,False
+llama3.2:1b,10,9780078799822,False.,False,False
+llama3.2:1b,10,9780078799822,False,False,False
+mistral:7b,0,9780078799822,"False, the book ""9780078799822"" is not STEM as it pertains to political science and government, rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,0,9780078799822,"False, the book is not STEM.",False,False
+mistral:7b,0,9780078799822,"False, the book ""9780078799822"" is not a STEM (Science, Technology, Engineering, Mathematics) book. The summary provided indicates that it's about politics and government, which fall under social sciences rather than STEM fields.",False,False
+mistral:7b,0,9780078799822,"False, the book is not STEM (Science, Technology, Engineering, Mathematics). The provided book summary suggests it deals more with politics and government rather than scientific, technical, or mathematical subjects.",False,False
+mistral:7b,0,9780078799822,"False, this book does not appear to be STEM (Science, Technology, Engineering, Mathematics). It's about politics and government, which falls under social sciences rather than STEM fields.",False,False
+mistral:7b,1,9780078799822,True,False,True
+mistral:7b,1,9780078799822,"True (since it's about government, politics, and policy which are related to Social Sciences, but often intertwined with technology and mathematics in certain contexts)",False,True
+mistral:7b,1,9780078799822,True,False,True
+mistral:7b,1,9780078799822,True,False,True
+mistral:7b,1,9780078799822,True,False,True
+mistral:7b,5,9780078799822,True (since it involves political science and history which can be considered as social sciences related to STEM),False,True
+mistral:7b,5,9780078799822,True,False,True
+mistral:7b,5,9780078799822,True,False,True
+mistral:7b,5,9780078799822,"True, as it pertains to politics and government which can be considered Social Sciences, and often involves data analysis and research, thus making it related to STEM. However, strictly speaking, it's not a hard science.",False,True
+mistral:7b,5,9780078799822,"True (It discusses political science and governance, which can be considered a part of social sciences within STEM)",False,True
+mistral:7b,10,9780078799822,False,False,False
+mistral:7b,10,9780078799822,"False, the book ""9780078799822"" is not STEM as it appears to be a political or historical book based on the provided summary. STEM stands for Science, Technology, Engineering, and Mathematics.",False,False
+mistral:7b,10,9780078799822,"False, this book does not appear to be within the field of Science, Technology, Engineering, or Mathematics (STEM).",False,False
+mistral:7b,10,9780078799822,"False, this book is not STEM (Science, Technology, Engineering, Mathematics). It pertains to political science and history rather than the STEM fields.",False,False
+mistral:7b,10,9780078799822,"False, this book does not appear to be within the field of Science, Technology, Engineering, or Mathematics (STEM).",False,False
+gemma3:12b,0,9780078799822,False,False,False
+gemma3:12b,0,9780078799822,False,False,False
+gemma3:12b,0,9780078799822,False,False,False
+gemma3:12b,0,9780078799822,False,False,False
+gemma3:12b,0,9780078799822,False,False,False
+gemma3:12b,1,9780078799822,False,False,False
+gemma3:12b,1,9780078799822,False,False,False
+gemma3:12b,1,9780078799822,False,False,False
+gemma3:12b,1,9780078799822,False,False,False
+gemma3:12b,1,9780078799822,False,False,False
+gemma3:12b,5,9780078799822,False,False,False
+gemma3:12b,5,9780078799822,False,False,False
+gemma3:12b,5,9780078799822,False,False,False
+gemma3:12b,5,9780078799822,False,False,False
+gemma3:12b,5,9780078799822,False,False,False
+gemma3:12b,10,9780078799822,False,False,False
+gemma3:12b,10,9780078799822,False,False,False
+gemma3:12b,10,9780078799822,False,False,False
+gemma3:12b,10,9780078799822,False,False,False
+gemma3:12b,10,9780078799822,False,False,False
+llama3.2:1b,0,9781457682513,False,False,False
+llama3.2:1b,0,9781457682513,True,False,True
+llama3.2:1b,0,9781457682513,True,False,True
+llama3.2:1b,0,9781457682513,False,False,False
+llama3.2:1b,0,9781457682513,False.,False,False
+llama3.2:1b,1,9781457682513,True,False,True
+llama3.2:1b,1,9781457682513,False,False,False
+llama3.2:1b,1,9781457682513,False,False,False
+llama3.2:1b,1,9781457682513,False,False,False
+llama3.2:1b,1,9781457682513,False,False,False
+llama3.2:1b,5,9781457682513,True,False,True
+llama3.2:1b,5,9781457682513,False.,False,False
+llama3.2:1b,5,9781457682513,True,False,True
+llama3.2:1b,5,9781457682513,False.,False,False
+llama3.2:1b,5,9781457682513,False,False,False
+llama3.2:1b,10,9781457682513,"False. The book summary does not mention anything related to science, technology, engineering, and mathematics (STEM). It appears to be a textbook focused on literature and composition for high school students taking the AP exam.",False,False
+llama3.2:1b,10,9781457682513,False,False,False
+llama3.2:1b,10,9781457682513,False,False,False
+llama3.2:1b,10,9781457682513,False,False,False
+llama3.2:1b,10,9781457682513,False.,False,False
+mistral:7b,0,9781457682513,False,False,False
+mistral:7b,0,9781457682513,False,False,False
+mistral:7b,0,9781457682513,False,False,False
+mistral:7b,0,9781457682513,False,False,False
+mistral:7b,0,9781457682513,False,False,False
+mistral:7b,1,9781457682513,False,False,False
+mistral:7b,1,9781457682513,False,False,False
+mistral:7b,1,9781457682513,False,False,False
+mistral:7b,1,9781457682513,False,False,False
+mistral:7b,1,9781457682513,False,False,False
+mistral:7b,5,9781457682513,False,False,False
+mistral:7b,5,9781457682513,False,False,False
+mistral:7b,5,9781457682513,False,False,False
+mistral:7b,5,9781457682513,False,False,False
+mistral:7b,5,9781457682513,False,False,False
+mistral:7b,10,9781457682513,False,False,False
+mistral:7b,10,9781457682513,False,False,False
+mistral:7b,10,9781457682513,False,False,False
+mistral:7b,10,9781457682513,False,False,False
+mistral:7b,10,9781457682513,False,False,False
+gemma3:12b,0,9781457682513,False,False,False
+gemma3:12b,0,9781457682513,False,False,False
+gemma3:12b,0,9781457682513,False,False,False
+gemma3:12b,0,9781457682513,false,False,False
+gemma3:12b,0,9781457682513,False,False,False
+gemma3:12b,1,9781457682513,False,False,False
+gemma3:12b,1,9781457682513,False,False,False
+gemma3:12b,1,9781457682513,False,False,False
+gemma3:12b,1,9781457682513,False,False,False
+gemma3:12b,1,9781457682513,False,False,False
+gemma3:12b,5,9781457682513,False,False,False
+gemma3:12b,5,9781457682513,False,False,False
+gemma3:12b,5,9781457682513,False,False,False
+gemma3:12b,5,9781457682513,False,False,False
+gemma3:12b,5,9781457682513,False,False,False
+gemma3:12b,10,9781457682513,False,False,False
+gemma3:12b,10,9781457682513,False,False,False
+gemma3:12b,10,9781457682513,False,False,False
+gemma3:12b,10,9781457682513,False,False,False
+gemma3:12b,10,9781457682513,False,False,False
+llama3.2:1b,0,0030672147,False.,True,False
+llama3.2:1b,0,0030672147,False.,True,False
+llama3.2:1b,0,0030672147,"False. The book title does not indicate it's a science, technology, engineering, and math (STEM) book.",True,False
+llama3.2:1b,0,0030672147,False.,True,False
+llama3.2:1b,0,0030672147,False.,True,False
+llama3.2:1b,1,0030672147,False.,True,False
+llama3.2:1b,1,0030672147,False.,True,False
+llama3.2:1b,1,0030672147,False,True,False
+llama3.2:1b,1,0030672147,True,True,True
+llama3.2:1b,1,0030672147,False.,True,False
+llama3.2:1b,5,0030672147,False.,True,False
+llama3.2:1b,5,0030672147,False.,True,False
+llama3.2:1b,5,0030672147,False.,True,False
+llama3.2:1b,5,0030672147,False.,True,False
+llama3.2:1b,5,0030672147,False.,True,False
+llama3.2:1b,10,0030672147,False.,True,False
+llama3.2:1b,10,0030672147,False.,True,False
+llama3.2:1b,10,0030672147,False.,True,False
+llama3.2:1b,10,0030672147,False.,True,False
+llama3.2:1b,10,0030672147,False.,True,False
+mistral:7b,0,0030672147,True,True,True
+mistral:7b,0,0030672147,True,True,True
+mistral:7b,0,0030672147,True,True,True
+mistral:7b,0,0030672147,True,True,True
+mistral:7b,0,0030672147,True,True,True
+mistral:7b,1,0030672147,True,True,True
+mistral:7b,1,0030672147,True,True,True
+mistral:7b,1,0030672147,True,True,True
+mistral:7b,1,0030672147,True,True,True
+mistral:7b,1,0030672147,True,True,True
+mistral:7b,5,0030672147,True,True,True
+mistral:7b,5,0030672147,True,True,True
+mistral:7b,5,0030672147,True,True,True
+mistral:7b,5,0030672147,True,True,True
+mistral:7b,5,0030672147,True,True,True
+mistral:7b,10,0030672147,True,True,True
+mistral:7b,10,0030672147,True,True,True
+mistral:7b,10,0030672147,True,True,True
+mistral:7b,10,0030672147,True,True,True
+mistral:7b,10,0030672147,True,True,True
+gemma3:12b,0,0030672147,True,True,True
+gemma3:12b,0,0030672147,True,True,True
+gemma3:12b,0,0030672147,True,True,True
+gemma3:12b,0,0030672147,True,True,True
+gemma3:12b,0,0030672147,True,True,True
+gemma3:12b,1,0030672147,True,True,True
+gemma3:12b,1,0030672147,True,True,True
+gemma3:12b,1,0030672147,True,True,True
+gemma3:12b,1,0030672147,True,True,True
+gemma3:12b,1,0030672147,True,True,True
+gemma3:12b,5,0030672147,True,True,True
+gemma3:12b,5,0030672147,True,True,True
+gemma3:12b,5,0030672147,True,True,True
+gemma3:12b,5,0030672147,True,True,True
+gemma3:12b,5,0030672147,True,True,True
+gemma3:12b,10,0030672147,True,True,True
+gemma3:12b,10,0030672147,True,True,True
+gemma3:12b,10,0030672147,True,True,True
+gemma3:12b,10,0030672147,True,True,True
+gemma3:12b,10,0030672147,True,True,True
+llama3.2:1b,0,9780871927194,False,False,False
+llama3.2:1b,0,9780871927194,False.,False,False
+llama3.2:1b,0,9780871927194,False.,False,False
+llama3.2:1b,0,9780871927194,False.,False,False
+llama3.2:1b,0,9780871927194,False.,False,False
+llama3.2:1b,1,9780871927194,False,False,False
+llama3.2:1b,1,9780871927194,True,False,True
+llama3.2:1b,1,9780871927194,False,False,False
+llama3.2:1b,1,9780871927194,False.,False,False
+llama3.2:1b,1,9780871927194,False,False,False
+llama3.2:1b,5,9780871927194,True.,False,True
+llama3.2:1b,5,9780871927194,False.,False,False
+llama3.2:1b,5,9780871927194,True.,False,True
+llama3.2:1b,5,9780871927194,True.,False,True
+llama3.2:1b,5,9780871927194,False,False,False
+llama3.2:1b,10,9780871927194,True,False,True
+llama3.2:1b,10,9780871927194,True,False,True
+llama3.2:1b,10,9780871927194,False.,False,False
+llama3.2:1b,10,9780871927194,False.,False,False
+llama3.2:1b,10,9780871927194,False.,False,False
+mistral:7b,0,9780871927194,False,False,False
+mistral:7b,0,9780871927194,False,False,False
+mistral:7b,0,9780871927194,False,False,False
+mistral:7b,0,9780871927194,False,False,False
+mistral:7b,0,9780871927194,False,False,False
+mistral:7b,1,9780871927194,True,False,True
+mistral:7b,1,9780871927194,True,False,True
+mistral:7b,1,9780871927194,True,False,True
+mistral:7b,1,9780871927194,True,False,True
+mistral:7b,1,9780871927194,True,False,True
+mistral:7b,5,9780871927194,True,False,True
+mistral:7b,5,9780871927194,True,False,True
+mistral:7b,5,9780871927194,True,False,True
+mistral:7b,5,9780871927194,True,False,True
+mistral:7b,5,9780871927194,True,False,True
+mistral:7b,10,9780871927194,False,False,False
+mistral:7b,10,9780871927194,False,False,False
+mistral:7b,10,9780871927194,False,False,False
+mistral:7b,10,9780871927194,"False, the book is not STEM (Science, Technology, Engineering, Mathematics). It's about art which falls under Humanities.",False,False
+mistral:7b,10,9780871927194,"False, this book is not STEM as it covers topics related to art, a humanities subject, rather than Science, Technology, Engineering, or Mathematics (STEM).",False,False
+gemma3:12b,0,9780871927194,False,False,False
+gemma3:12b,0,9780871927194,False,False,False
+gemma3:12b,0,9780871927194,False,False,False
+gemma3:12b,0,9780871927194,False,False,False
+gemma3:12b,0,9780871927194,False,False,False
+gemma3:12b,1,9780871927194,False,False,False
+gemma3:12b,1,9780871927194,False,False,False
+gemma3:12b,1,9780871927194,False,False,False
+gemma3:12b,1,9780871927194,False,False,False
+gemma3:12b,1,9780871927194,False,False,False
+gemma3:12b,5,9780871927194,False,False,False
+gemma3:12b,5,9780871927194,False,False,False
+gemma3:12b,5,9780871927194,False,False,False
+gemma3:12b,5,9780871927194,False,False,False
+gemma3:12b,5,9780871927194,False,False,False
+gemma3:12b,10,9780871927194,False,False,False
+gemma3:12b,10,9780871927194,False,False,False
+gemma3:12b,10,9780871927194,False,False,False
+gemma3:12b,10,9780871927194,False,False,False
+gemma3:12b,10,9780871927194,False,False,False
+llama3.2:1b,0,978-0-538-44586-3,False.,True,False
+llama3.2:1b,0,978-0-538-44586-3,False,True,False
+llama3.2:1b,0,978-0-538-44586-3,False.,True,False
+llama3.2:1b,0,978-0-538-44586-3,False,True,False
+llama3.2:1b,0,978-0-538-44586-3,False,True,False
+llama3.2:1b,1,978-0-538-44586-3,False,True,False
+llama3.2:1b,1,978-0-538-44586-3,True,True,True
+llama3.2:1b,1,978-0-538-44586-3,False,True,False
+llama3.2:1b,1,978-0-538-44586-3,False,True,False
+llama3.2:1b,1,978-0-538-44586-3,False,True,False
+llama3.2:1b,5,978-0-538-44586-3,False,True,False
+llama3.2:1b,5,978-0-538-44586-3,False.,True,False
+llama3.2:1b,5,978-0-538-44586-3,True,True,True
+llama3.2:1b,5,978-0-538-44586-3,True,True,True
+llama3.2:1b,5,978-0-538-44586-3,False,True,False
+llama3.2:1b,10,978-0-538-44586-3,False.,True,False
+llama3.2:1b,10,978-0-538-44586-3,False.,True,False
+llama3.2:1b,10,978-0-538-44586-3,False,True,False
+llama3.2:1b,10,978-0-538-44586-3,False.,True,False
+llama3.2:1b,10,978-0-538-44586-3,False,True,False
+mistral:7b,0,978-0-538-44586-3,True,True,True
+mistral:7b,0,978-0-538-44586-3,True,True,True
+mistral:7b,0,978-0-538-44586-3,True,True,True
+mistral:7b,0,978-0-538-44586-3,True,True,True
+mistral:7b,0,978-0-538-44586-3,True,True,True
+mistral:7b,1,978-0-538-44586-3,True,True,True
+mistral:7b,1,978-0-538-44586-3,True,True,True
+mistral:7b,1,978-0-538-44586-3,True,True,True
+mistral:7b,1,978-0-538-44586-3,True,True,True
+mistral:7b,1,978-0-538-44586-3,True,True,True
+mistral:7b,5,978-0-538-44586-3,True,True,True
+mistral:7b,5,978-0-538-44586-3,True,True,True
+mistral:7b,5,978-0-538-44586-3,True,True,True
+mistral:7b,5,978-0-538-44586-3,True,True,True
+mistral:7b,5,978-0-538-44586-3,True,True,True
+mistral:7b,10,978-0-538-44586-3,True,True,True
+mistral:7b,10,978-0-538-44586-3,True,True,True
+mistral:7b,10,978-0-538-44586-3,True,True,True
+mistral:7b,10,978-0-538-44586-3,True,True,True
+mistral:7b,10,978-0-538-44586-3,True,True,True
+gemma3:12b,0,978-0-538-44586-3,True,True,True
+gemma3:12b,0,978-0-538-44586-3,True,True,True
+gemma3:12b,0,978-0-538-44586-3,True,True,True
+gemma3:12b,0,978-0-538-44586-3,True,True,True
+gemma3:12b,0,978-0-538-44586-3,True,True,True
+gemma3:12b,1,978-0-538-44586-3,True,True,True
+gemma3:12b,1,978-0-538-44586-3,True,True,True
+gemma3:12b,1,978-0-538-44586-3,True,True,True
+gemma3:12b,1,978-0-538-44586-3,True,True,True
+gemma3:12b,1,978-0-538-44586-3,True,True,True
+gemma3:12b,5,978-0-538-44586-3,True,True,True
+gemma3:12b,5,978-0-538-44586-3,True,True,True
+gemma3:12b,5,978-0-538-44586-3,True,True,True
+gemma3:12b,5,978-0-538-44586-3,True,True,True
+gemma3:12b,5,978-0-538-44586-3,True,True,True
+gemma3:12b,10,978-0-538-44586-3,True,True,True
+gemma3:12b,10,978-0-538-44586-3,True,True,True
+gemma3:12b,10,978-0-538-44586-3,True,True,True
+gemma3:12b,10,978-0-538-44586-3,True,True,True
+gemma3:12b,10,978-0-538-44586-3,True,True,True
+llama3.2:1b,0,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,0,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,0,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,0,"The Rowan (The Tower and the Hive, #1)",True.,False,True
+llama3.2:1b,0,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,1,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,1,"The Rowan (The Tower and the Hive, #1)",False,False,False
+llama3.2:1b,1,"The Rowan (The Tower and the Hive, #1)",False,False,False
+llama3.2:1b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+llama3.2:1b,1,"The Rowan (The Tower and the Hive, #1)",False,False,False
+llama3.2:1b,5,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+llama3.2:1b,5,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,5,"The Rowan (The Tower and the Hive, #1)",True.,False,True
+llama3.2:1b,5,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,10,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,10,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,10,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,10,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+llama3.2:1b,10,"The Rowan (The Tower and the Hive, #1)",False.,False,False
+mistral:7b,0,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,0,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,0,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,0,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,0,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+mistral:7b,10,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,10,"The Rowan (The Tower and the Hive, #1)",False,False,False
+mistral:7b,10,"The Rowan (The Tower and the Hive, #1)","False. The book ""The Rowan (The Tower and the Hive, #1)"" is primarily classified as science fiction, not STEM. While it does contain elements of technology and scientific advancement, its primary focus is on storytelling, character development, and speculative fiction rather than strictly science, technology, engineering, or mathematics.",False,False
+mistral:7b,10,"The Rowan (The Tower and the Hive, #1)","False. The book, ""The Rowan (The Tower and the Hive, #1)"", while it does contain elements of science fiction and technology, it primarily focuses on themes of personal growth, relationships, and society, and therefore is not considered a STEM book.",False,False
+mistral:7b,10,"The Rowan (The Tower and the Hive, #1)",False,False,False
+gemma3:12b,0,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,0,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,0,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,0,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,0,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,1,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,5,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,10,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,10,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,10,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,10,"The Rowan (The Tower and the Hive, #1)",True,False,True
+gemma3:12b,10,"The Rowan (The Tower and the Hive, #1)",True,False,True
+llama3.2:1b,0,9780618562763,True,True,True
+llama3.2:1b,0,9780618562763,False,True,False
+llama3.2:1b,0,9780618562763,False,True,False
+llama3.2:1b,0,9780618562763,True,True,True
+llama3.2:1b,0,9780618562763,False,True,False
+llama3.2:1b,1,9780618562763,True,True,True
+llama3.2:1b,1,9780618562763,False,True,False
+llama3.2:1b,1,9780618562763,False,True,False
+llama3.2:1b,1,9780618562763,False,True,False
+llama3.2:1b,1,9780618562763,False,True,False
+llama3.2:1b,5,9780618562763,True,True,True
+llama3.2:1b,5,9780618562763,False,True,False
+llama3.2:1b,5,9780618562763,False,True,False
+llama3.2:1b,5,9780618562763,True.,True,True
+llama3.2:1b,5,9780618562763,False.,True,False
+llama3.2:1b,10,9780618562763,False,True,False
+llama3.2:1b,10,9780618562763,True,True,True
+llama3.2:1b,10,9780618562763,True,True,True
+llama3.2:1b,10,9780618562763,False.,True,False
+llama3.2:1b,10,9780618562763,False,True,False
+mistral:7b,0,9780618562763,True,True,True
+mistral:7b,0,9780618562763,True,True,True
+mistral:7b,0,9780618562763,True,True,True
+mistral:7b,0,9780618562763,True,True,True
+mistral:7b,0,9780618562763,True,True,True
+mistral:7b,1,9780618562763,True,True,True
+mistral:7b,1,9780618562763,True,True,True
+mistral:7b,1,9780618562763,True,True,True
+mistral:7b,1,9780618562763,True,True,True
+mistral:7b,1,9780618562763,True,True,True
+mistral:7b,5,9780618562763,True,True,True
+mistral:7b,5,9780618562763,True,True,True
+mistral:7b,5,9780618562763,True,True,True
+mistral:7b,5,9780618562763,True,True,True
+mistral:7b,5,9780618562763,True,True,True
+mistral:7b,10,9780618562763,True,True,True
+mistral:7b,10,9780618562763,True,True,True
+mistral:7b,10,9780618562763,True,True,True
+mistral:7b,10,9780618562763,True,True,True
+mistral:7b,10,9780618562763,True,True,True
+gemma3:12b,0,9780618562763,True,True,True
+gemma3:12b,0,9780618562763,True,True,True
+gemma3:12b,0,9780618562763,True,True,True
+gemma3:12b,0,9780618562763,True,True,True
+gemma3:12b,0,9780618562763,True,True,True
+gemma3:12b,1,9780618562763,True,True,True
+gemma3:12b,1,9780618562763,True,True,True
+gemma3:12b,1,9780618562763,True,True,True
+gemma3:12b,1,9780618562763,True,True,True
+gemma3:12b,1,9780618562763,True,True,True
+gemma3:12b,5,9780618562763,True,True,True
+gemma3:12b,5,9780618562763,True,True,True
+gemma3:12b,5,9780618562763,True,True,True
+gemma3:12b,5,9780618562763,True,True,True
+gemma3:12b,5,9780618562763,True,True,True
+gemma3:12b,10,9780618562763,True,True,True
+gemma3:12b,10,9780618562763,True,True,True
+gemma3:12b,10,9780618562763,True,True,True
+gemma3:12b,10,9780618562763,True,True,True
+gemma3:12b,10,9780618562763,True,True,True
+llama3.2:1b,0,The Old Wives' Tale,False.,False,False
+llama3.2:1b,0,The Old Wives' Tale,False.,False,False
+llama3.2:1b,0,The Old Wives' Tale,False.,False,False
+llama3.2:1b,0,The Old Wives' Tale,False.,False,False
+llama3.2:1b,0,The Old Wives' Tale,False.,False,False
+llama3.2:1b,1,The Old Wives' Tale,False,False,False
+llama3.2:1b,1,The Old Wives' Tale,False,False,False
+llama3.2:1b,1,The Old Wives' Tale,False,False,False
+llama3.2:1b,1,The Old Wives' Tale,False,False,False
+llama3.2:1b,1,The Old Wives' Tale,True.,False,True
+llama3.2:1b,5,The Old Wives' Tale,False.,False,False
+llama3.2:1b,5,The Old Wives' Tale,False.,False,False
+llama3.2:1b,5,The Old Wives' Tale,True.,False,True
+llama3.2:1b,5,The Old Wives' Tale,True.,False,True
+llama3.2:1b,5,The Old Wives' Tale,False,False,False
+llama3.2:1b,10,The Old Wives' Tale,False.,False,False
+llama3.2:1b,10,The Old Wives' Tale,False.,False,False
+llama3.2:1b,10,The Old Wives' Tale,False.,False,False
+llama3.2:1b,10,The Old Wives' Tale,False.,False,False
+llama3.2:1b,10,The Old Wives' Tale,False.,False,False
+mistral:7b,0,The Old Wives' Tale,"False, ""The Old Wives' Tale"" is not a STEM (Science, Technology, Engineering, Mathematics) book. It is a novel based on historical events and social life in the pottery district of Staffordshire and France, not a book focusing on any of the STEM fields.",False,False
+mistral:7b,0,The Old Wives' Tale,False,False,False
+mistral:7b,0,The Old Wives' Tale,False,False,False
+mistral:7b,0,The Old Wives' Tale,False,False,False
+mistral:7b,0,The Old Wives' Tale,"False, The Old Wives' Tale is not a STEM book as it primarily focuses on societal and personal themes rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,1,The Old Wives' Tale,False,False,False
+mistral:7b,1,The Old Wives' Tale,False,False,False
+mistral:7b,1,The Old Wives' Tale,False,False,False
+mistral:7b,1,The Old Wives' Tale,False,False,False
+mistral:7b,1,The Old Wives' Tale,False,False,False
+mistral:7b,5,The Old Wives' Tale,False,False,False
+mistral:7b,5,The Old Wives' Tale,False,False,False
+mistral:7b,5,The Old Wives' Tale,False,False,False
+mistral:7b,5,The Old Wives' Tale,False,False,False
+mistral:7b,5,The Old Wives' Tale,False,False,False
+mistral:7b,10,The Old Wives' Tale,"False, The Old Wives' Tale is not a STEM (Science, Technology, Engineering, Mathematics) book. It is a literary novel set in the pottery district of Staffordshire and France during the Siege of Paris, which falls under Humanities or Arts category rather than STEM.",False,False
+mistral:7b,10,The Old Wives' Tale,False,False,False
+mistral:7b,10,The Old Wives' Tale,"False, ""The Old Wives' Tale"" is not a STEM book as it focuses on Victorian social life and events, rather than Science, Technology, Engineering, or Mathematics.",False,False
+mistral:7b,10,The Old Wives' Tale,"False, ""The Old Wives' Tale"" is not a STEM (Science, Technology, Engineering, Mathematics) book. It falls under the category of literature.",False,False
+mistral:7b,10,The Old Wives' Tale,"False, ""The Old Wives' Tale"" is not a STEM book as it falls under the category of literature, specifically Victorian fiction, and does not focus on Science, Technology, Engineering, or Mathematics.",False,False
+gemma3:12b,0,The Old Wives' Tale,False,False,False
+gemma3:12b,0,The Old Wives' Tale,False,False,False
+gemma3:12b,0,The Old Wives' Tale,False,False,False
+gemma3:12b,0,The Old Wives' Tale,False,False,False
+gemma3:12b,0,The Old Wives' Tale,False,False,False
+gemma3:12b,1,The Old Wives' Tale,False,False,False
+gemma3:12b,1,The Old Wives' Tale,False,False,False
+gemma3:12b,1,The Old Wives' Tale,False,False,False
+gemma3:12b,1,The Old Wives' Tale,False,False,False
+gemma3:12b,1,The Old Wives' Tale,False,False,False
+gemma3:12b,5,The Old Wives' Tale,False,False,False
+gemma3:12b,5,The Old Wives' Tale,False,False,False
+gemma3:12b,5,The Old Wives' Tale,False,False,False
+gemma3:12b,5,The Old Wives' Tale,False,False,False
+gemma3:12b,5,The Old Wives' Tale,False,False,False
+gemma3:12b,10,The Old Wives' Tale,False,False,False
+gemma3:12b,10,The Old Wives' Tale,False,False,False
+gemma3:12b,10,The Old Wives' Tale,False,False,False
+gemma3:12b,10,The Old Wives' Tale,False,False,False
+gemma3:12b,10,The Old Wives' Tale,False,False,False
+llama3.2:1b,0,0-471-69704-4,False,True,False
+llama3.2:1b,0,0-471-69704-4,True,True,True
+llama3.2:1b,0,0-471-69704-4,True,True,True
+llama3.2:1b,0,0-471-69704-4,False,True,False
+llama3.2:1b,0,0-471-69704-4,False,True,False
+llama3.2:1b,1,0-471-69704-4,False,True,False
+llama3.2:1b,1,0-471-69704-4,False,True,False
+llama3.2:1b,1,0-471-69704-4,True,True,True
+llama3.2:1b,1,0-471-69704-4,False,True,False
+llama3.2:1b,1,0-471-69704-4,False,True,False
+llama3.2:1b,5,0-471-69704-4,True,True,True
+llama3.2:1b,5,0-471-69704-4,False,True,False
+llama3.2:1b,5,0-471-69704-4,False.,True,False
+llama3.2:1b,5,0-471-69704-4,False,True,False
+llama3.2:1b,5,0-471-69704-4,False,True,False
+llama3.2:1b,10,0-471-69704-4,False,True,False
+llama3.2:1b,10,0-471-69704-4,True,True,True
+llama3.2:1b,10,0-471-69704-4,False,True,False
+llama3.2:1b,10,0-471-69704-4,False,True,False
+llama3.2:1b,10,0-471-69704-4,False.,True,False
+mistral:7b,0,0-471-69704-4,True,True,True
+mistral:7b,0,0-471-69704-4,True,True,True
+mistral:7b,0,0-471-69704-4,True,True,True
+mistral:7b,0,0-471-69704-4,True,True,True
+mistral:7b,0,0-471-69704-4,True,True,True
+mistral:7b,1,0-471-69704-4,True,True,True
+mistral:7b,1,0-471-69704-4,True,True,True
+mistral:7b,1,0-471-69704-4,True,True,True
+mistral:7b,1,0-471-69704-4,True,True,True
+mistral:7b,1,0-471-69704-4,True,True,True
+mistral:7b,5,0-471-69704-4,True,True,True
+mistral:7b,5,0-471-69704-4,True,True,True
+mistral:7b,5,0-471-69704-4,True,True,True
+mistral:7b,5,0-471-69704-4,True,True,True
+mistral:7b,5,0-471-69704-4,True,True,True
+mistral:7b,10,0-471-69704-4,True,True,True
+mistral:7b,10,0-471-69704-4,True,True,True
+mistral:7b,10,0-471-69704-4,True,True,True
+mistral:7b,10,0-471-69704-4,True,True,True
+mistral:7b,10,0-471-69704-4,True,True,True
+gemma3:12b,0,0-471-69704-4,True,True,True
+gemma3:12b,0,0-471-69704-4,True,True,True
+gemma3:12b,0,0-471-69704-4,True,True,True
+gemma3:12b,0,0-471-69704-4,True,True,True
+gemma3:12b,0,0-471-69704-4,True,True,True
+gemma3:12b,1,0-471-69704-4,True,True,True
+gemma3:12b,1,0-471-69704-4,True,True,True
+gemma3:12b,1,0-471-69704-4,True,True,True
+gemma3:12b,1,0-471-69704-4,True,True,True
+gemma3:12b,1,0-471-69704-4,True,True,True
+gemma3:12b,5,0-471-69704-4,True,True,True
+gemma3:12b,5,0-471-69704-4,True,True,True
+gemma3:12b,5,0-471-69704-4,True,True,True
+gemma3:12b,5,0-471-69704-4,True,True,True
+gemma3:12b,5,0-471-69704-4,True,True,True
+gemma3:12b,10,0-471-69704-4,True,True,True
+gemma3:12b,10,0-471-69704-4,True,True,True
+gemma3:12b,10,0-471-69704-4,True,True,True
+gemma3:12b,10,0-471-69704-4,True,True,True
+gemma3:12b,10,0-471-69704-4,True,True,True
+llama3.2:1b,0,Keeping the Moon,False,False,False
+llama3.2:1b,0,Keeping the Moon,False,False,False
+llama3.2:1b,0,Keeping the Moon,False.,False,False
+llama3.2:1b,0,Keeping the Moon,False.,False,False
+llama3.2:1b,0,Keeping the Moon,False.,False,False
+llama3.2:1b,1,Keeping the Moon,False,False,False
+llama3.2:1b,1,Keeping the Moon,True,False,True
+llama3.2:1b,1,Keeping the Moon,False,False,False
+llama3.2:1b,1,Keeping the Moon,False,False,False
+llama3.2:1b,1,Keeping the Moon,False,False,False
+llama3.2:1b,5,Keeping the Moon,False,False,False
+llama3.2:1b,5,Keeping the Moon,False.,False,False
+llama3.2:1b,5,Keeping the Moon,False.,False,False
+llama3.2:1b,5,Keeping the Moon,False.,False,False
+llama3.2:1b,5,Keeping the Moon,True,False,True
+llama3.2:1b,10,Keeping the Moon,True,False,True
+llama3.2:1b,10,Keeping the Moon,False.,False,False
+llama3.2:1b,10,Keeping the Moon,False.,False,False
+llama3.2:1b,10,Keeping the Moon,False,False,False
+llama3.2:1b,10,Keeping the Moon,"False. This book is not STEM. It appears to be a work of fiction focused on relationships, self-discovery, and coming-of-age themes rather than scientific or technical concepts.",False,False
+mistral:7b,0,Keeping the Moon,False,False,False
+mistral:7b,0,Keeping the Moon,False,False,False
+mistral:7b,0,Keeping the Moon,"False, ""Keeping the Moon"" is not a STEM book. It appears to be a work of fiction focused on character development and relationships, rather than science, technology, engineering, or mathematics.",False,False
+mistral:7b,0,Keeping the Moon,False,False,False
+mistral:7b,0,Keeping the Moon,"False. ""Keeping the Moon"" is not a STEM (Science, Technology, Engineering, Mathematics) book. It falls under the category of fiction literature.",False,False
+mistral:7b,1,Keeping the Moon,False,False,False
+mistral:7b,1,Keeping the Moon,False,False,False
+mistral:7b,1,Keeping the Moon,False,False,False
+mistral:7b,1,Keeping the Moon,False,False,False
+mistral:7b,1,Keeping the Moon,False,False,False
+mistral:7b,5,Keeping the Moon,False,False,False
+mistral:7b,5,Keeping the Moon,False,False,False
+mistral:7b,5,Keeping the Moon,False,False,False
+mistral:7b,5,Keeping the Moon,False,False,False
+mistral:7b,5,Keeping the Moon,False,False,False
+mistral:7b,10,Keeping the Moon,False,False,False
+mistral:7b,10,Keeping the Moon,False,False,False
+mistral:7b,10,Keeping the Moon,"False. ""Keeping the Moon"" is not a STEM book. It primarily focuses on themes of self-discovery, friendship, and personal growth, which fall under the categories of Humanities rather than Science, Technology, Engineering, or Mathematics (STEM).",False,False
+mistral:7b,10,Keeping the Moon,False,False,False
+mistral:7b,10,Keeping the Moon,False,False,False
+gemma3:12b,0,Keeping the Moon,False,False,False
+gemma3:12b,0,Keeping the Moon,False,False,False
+gemma3:12b,0,Keeping the Moon,False,False,False
+gemma3:12b,0,Keeping the Moon,False,False,False
+gemma3:12b,0,Keeping the Moon,False,False,False
+gemma3:12b,1,Keeping the Moon,False,False,False
+gemma3:12b,1,Keeping the Moon,False,False,False
+gemma3:12b,1,Keeping the Moon,False,False,False
+gemma3:12b,1,Keeping the Moon,False,False,False
+gemma3:12b,1,Keeping the Moon,False,False,False
+gemma3:12b,5,Keeping the Moon,False,False,False
+gemma3:12b,5,Keeping the Moon,False,False,False
+gemma3:12b,5,Keeping the Moon,False,False,False
+gemma3:12b,5,Keeping the Moon,False,False,False
+gemma3:12b,5,Keeping the Moon,False,False,False
+gemma3:12b,10,Keeping the Moon,False,False,False
+gemma3:12b,10,Keeping the Moon,False,False,False
+gemma3:12b,10,Keeping the Moon,False,False,False
+gemma3:12b,10,Keeping the Moon,False,False,False
+gemma3:12b,10,Keeping the Moon,False,False,False
+llama3.2:1b,0,Trainspotting,False.,False,False
+llama3.2:1b,0,Trainspotting,False.,False,False
+llama3.2:1b,0,Trainspotting,False.,False,False
+llama3.2:1b,0,Trainspotting,False.,False,False
+llama3.2:1b,0,Trainspotting,False.,False,False
+llama3.2:1b,1,Trainspotting,False.,False,False
+llama3.2:1b,1,Trainspotting,False,False,False
+llama3.2:1b,1,Trainspotting,False.,False,False
+llama3.2:1b,1,Trainspotting,False,False,False
+llama3.2:1b,1,Trainspotting,False,False,False
+llama3.2:1b,5,Trainspotting,False.,False,False
+llama3.2:1b,5,Trainspotting,False.,False,False
+llama3.2:1b,5,Trainspotting,False.,False,False
+llama3.2:1b,5,Trainspotting,False.,False,False
+llama3.2:1b,5,Trainspotting,False.,False,False
+llama3.2:1b,10,Trainspotting,False.,False,False
+llama3.2:1b,10,Trainspotting,False.,False,False
+llama3.2:1b,10,Trainspotting,False.,False,False
+llama3.2:1b,10,Trainspotting,False.,False,False
+llama3.2:1b,10,Trainspotting,False.,False,False
+mistral:7b,0,Trainspotting,False,False,False
+mistral:7b,0,Trainspotting,False,False,False
+mistral:7b,0,Trainspotting,False,False,False
+mistral:7b,0,Trainspotting,False,False,False
+mistral:7b,0,Trainspotting,False,False,False
+mistral:7b,1,Trainspotting,False,False,False
+mistral:7b,1,Trainspotting,False,False,False
+mistral:7b,1,Trainspotting,False,False,False
+mistral:7b,1,Trainspotting,False,False,False
+mistral:7b,1,Trainspotting,False,False,False
+mistral:7b,5,Trainspotting,False,False,False
+mistral:7b,5,Trainspotting,False,False,False
+mistral:7b,5,Trainspotting,False,False,False
+mistral:7b,5,Trainspotting,False,False,False
+mistral:7b,5,Trainspotting,False,False,False
+mistral:7b,10,Trainspotting,False,False,False
+mistral:7b,10,Trainspotting,False,False,False
+mistral:7b,10,Trainspotting,False,False,False
+mistral:7b,10,Trainspotting,False,False,False
+mistral:7b,10,Trainspotting,False,False,False
+gemma3:12b,0,Trainspotting,False,False,False
+gemma3:12b,0,Trainspotting,False,False,False
+gemma3:12b,0,Trainspotting,False,False,False
+gemma3:12b,0,Trainspotting,False,False,False
+gemma3:12b,0,Trainspotting,False,False,False
+gemma3:12b,1,Trainspotting,False,False,False
+gemma3:12b,1,Trainspotting,False,False,False
+gemma3:12b,1,Trainspotting,False,False,False
+gemma3:12b,1,Trainspotting,False,False,False
+gemma3:12b,1,Trainspotting,False,False,False
+gemma3:12b,5,Trainspotting,False,False,False
+gemma3:12b,5,Trainspotting,False,False,False
+gemma3:12b,5,Trainspotting,False,False,False
+gemma3:12b,5,Trainspotting,False,False,False
+gemma3:12b,5,Trainspotting,False,False,False
+gemma3:12b,10,Trainspotting,False,False,False
+gemma3:12b,10,Trainspotting,False,False,False
+gemma3:12b,10,Trainspotting,False,False,False
+gemma3:12b,10,Trainspotting,False,False,False
+gemma3:12b,10,Trainspotting,False,False,False
